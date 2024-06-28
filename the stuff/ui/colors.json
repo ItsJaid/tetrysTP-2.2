@@ -1,0 +1,114 @@
+{
+    "level-search-bg": {
+        "r": 22,
+        "g": 22,
+        "b": 22
+    },
+    "level-search-bar-bg": {
+        "r": 10,
+        "g": 10,
+        "b": 10
+    },
+    "quick-search-bg": {
+        "r": 22,
+        "g": 22,
+        "b": 22
+    },
+    "difficulty-filters-bg": {
+        "r": 22,
+        "g": 22,
+        "b": 22
+    },
+    "length-filters-bg": {
+        "r": 22,
+        "g": 22,
+        "b": 22
+    },
+    "list-layer-bg": {
+        "r": 31,
+        "g": 31,
+        "b": 31
+    },
+    "list-cell-odd": {
+        "r": 48,
+        "g": 48,
+        "b": 48
+    },
+    "list-cell-even": {
+        "r": 80,
+        "g": 80,
+        "b": 80
+    },
+    "comment-cell-odd": {
+        "r": 48,
+        "g": 48,
+        "b": 48
+    },
+    "comment-cell-even": {
+        "r": 80,
+        "g": 80,
+        "b": 80
+    },
+    "comment-cell-small-odd": {
+        "r": 48,
+        "g": 48,
+        "b": 48
+    },
+    "comment-cell-small-even": {
+        "r": 80,
+        "g": 80,
+        "b": 80
+    },
+    "comment-cell-bg-odd": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 32
+    },
+    "comment-cell-bg-even": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 32
+    },
+    "comment-list-layer-bg": {
+        "r": 31,
+        "g": 31,
+        "b": 31
+    },
+    "info-description-bg": {
+        "r": 31,
+        "g": 31,
+        "b": 31
+    },
+    "edit-description-bg": {
+        "r": 31,
+        "g": 31,
+        "b": 31
+    },
+    "edit-name-bg": {
+        "r": 31,
+        "g": 31,
+        "b": 31
+    },
+    "main-menu-bg": {
+        "r": 31,
+        "g": 31,
+        "b": 31
+    },
+    "main-menu-ground": {
+        "r": 31,
+        "g": 31,
+        "b": 31
+    },
+    "comment-list-outline-brown": {
+        "r": 15,
+        "g": 15,
+        "b": 15
+    },
+    "comment-list-outline-blue": {
+        "r": 15,
+        "g": 15,
+        "b": 15
+    }
+}

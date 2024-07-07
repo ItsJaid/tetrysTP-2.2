@@ -446,6 +446,32 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>geode.loader/tag-featured.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{86,78}</string>
+			<key>spriteSourceSize</key>
+			<string>{86,78}</string>
+			<key>textureRect</key>
+			<string>{{525,635},{86,78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>geode.loader/tag-paid.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{204,78}</string>
+			<key>spriteSourceSize</key>
+			<string>{204,78}</string>
+			<key>textureRect</key>
+			<string>{{613,635},{204,78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>geode.loader/update.png</key>
 		<dict>
 			<key>spriteOffset</key>
@@ -455,7 +481,7 @@
 			<key>spriteSourceSize</key>
 			<string>{71,57}</string>
 			<key>textureRect</key>
-			<string>{{525,635},{71,57}}</string>
+			<string>{{0,694},{71,57}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -468,7 +494,7 @@
 			<key>spriteSourceSize</key>
 			<string>{58,58}</string>
 			<key>textureRect</key>
-			<string>{{598,635},{58,58}}</string>
+			<string>{{73,694},{58,58}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -481,7 +507,7 @@
 			<key>spriteSourceSize</key>
 			<string>{58,58}</string>
 			<key>textureRect</key>
-			<string>{{658,635},{58,58}}</string>
+			<string>{{133,694},{58,58}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -494,7 +520,7 @@
 			<key>spriteSourceSize</key>
 			<string>{58,58}</string>
 			<key>textureRect</key>
-			<string>{{718,635},{58,58}}</string>
+			<string>{{347,700},{58,58}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -507,7 +533,7 @@
 			<key>spriteSourceSize</key>
 			<string>{32,50}</string>
 			<key>textureRect</key>
-			<string>{{778,635},{32,50}}</string>
+			<string>{{193,694},{32,50}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -519,7 +545,7 @@
 		<key>realTextureFileName</key>
 		<string>geode.loader/APISheet-hd.png</string>
 		<key>size</key>
-		<string>{825,745}</string>
+		<string>{825,758}</string>
 		<key>textureFileName</key>
 		<string>geode.loader/APISheet-hd.png</string>
 	</dict>

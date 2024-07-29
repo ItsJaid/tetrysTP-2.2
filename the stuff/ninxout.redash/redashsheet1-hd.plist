@@ -30,16 +30,16 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>ninxout.redash/RD_createLabel.png</key>
+		<key>ninxout.redash/RD_eventCrown_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-2}</string>
 			<key>spriteSize</key>
-			<string>{181,45}</string>
+			<string>{161,119}</string>
 			<key>spriteSourceSize</key>
-			<string>{181,45}</string>
+			<string>{161,126}</string>
 			<key>textureRect</key>
-			<string>{{224,0},{181,45}}</string>
+			<string>{{224,0},{161,119}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -52,22 +52,9 @@
 			<key>spriteSourceSize</key>
 			<string>{109,116}</string>
 			<key>textureRect</key>
-			<string>{{407,0},{109,116}}</string>
+			<string>{{387,0},{109,116}}</string>
 			<key>textureRotated</key>
 			<true/>
-		</dict>
-		<key>ninxout.redash/RD_featuredLabel.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{234,44}</string>
-			<key>spriteSourceSize</key>
-			<string>{234,44}</string>
-			<key>textureRect</key>
-			<string>{{224,111},{234,44}}</string>
-			<key>textureRotated</key>
-			<false/>
 		</dict>
 		<key>ninxout.redash/RD_gauntlets.png</key>
 		<dict>
@@ -78,22 +65,9 @@
 			<key>spriteSourceSize</key>
 			<string>{116,122}</string>
 			<key>textureRect</key>
-			<string>{{460,111},{116,122}}</string>
+			<string>{{387,111},{116,122}}</string>
 			<key>textureRotated</key>
 			<true/>
-		</dict>
-		<key>ninxout.redash/RD_gauntletsLabel.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{216,37}</string>
-			<key>spriteSourceSize</key>
-			<string>{216,37}</string>
-			<key>textureRect</key>
-			<string>{{0,125},{216,37}}</string>
-			<key>textureRotated</key>
-			<false/>
 		</dict>
 		<key>ninxout.redash/RD_gddp.png</key>
 		<dict>
@@ -104,9 +78,9 @@
 			<key>spriteSourceSize</key>
 			<string>{96,93}</string>
 			<key>textureRect</key>
-			<string>{{218,157},{96,93}}</string>
+			<string>{{0,70},{96,93}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ninxout.redash/RD_gddp2.png</key>
 		<dict>
@@ -117,7 +91,7 @@
 			<key>spriteSourceSize</key>
 			<string>{105,94}</string>
 			<key>textureRect</key>
-			<string>{{316,157},{105,94}}</string>
+			<string>{{224,121},{105,94}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -130,20 +104,7 @@
 			<key>spriteSourceSize</key>
 			<string>{140,129}</string>
 			<key>textureRect</key>
-			<string>{{0,164},{140,129}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>ninxout.redash/RD_leaderboardsLabel.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{186,45}</string>
-			<key>spriteSourceSize</key>
-			<string>{186,45}</string>
-			<key>textureRect</key>
-			<string>{{142,253},{186,45}}</string>
+			<string>{{0,168},{140,129}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -156,22 +117,9 @@
 			<key>spriteSourceSize</key>
 			<string>{107,117}</string>
 			<key>textureRect</key>
-			<string>{{423,229},{107,117}}</string>
+			<string>{{142,217},{107,117}}</string>
 			<key>textureRotated</key>
 			<true/>
-		</dict>
-		<key>ninxout.redash/RD_listsLabel.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{140,44}</string>
-			<key>spriteSourceSize</key>
-			<string>{140,44}</string>
-			<key>textureRect</key>
-			<string>{{0,295},{140,44}}</string>
-			<key>textureRotated</key>
-			<false/>
 		</dict>
 		<key>ninxout.redash/RD_mainLevel.png</key>
 		<dict>
@@ -182,7 +130,7 @@
 			<key>spriteSourceSize</key>
 			<string>{404,303}</string>
 			<key>textureRect</key>
-			<string>{{142,338},{404,303}}</string>
+			<string>{{142,326},{404,303}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -195,7 +143,7 @@
 			<key>spriteSourceSize</key>
 			<string>{484,72}</string>
 			<key>textureRect</key>
-			<string>{{0,643},{484,72}}</string>
+			<string>{{0,631},{484,72}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -208,9 +156,9 @@
 			<key>spriteSourceSize</key>
 			<string>{111,78}</string>
 			<key>textureRect</key>
-			<string>{{486,643},{111,78}}</string>
+			<string>{{486,631},{111,78}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ninxout.redash/RD_paths.png</key>
 		<dict>
@@ -221,20 +169,7 @@
 			<key>spriteSourceSize</key>
 			<string>{156,99}</string>
 			<key>textureRect</key>
-			<string>{{0,717},{156,99}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>ninxout.redash/RD_pathsLabel.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{152,44}</string>
-			<key>spriteSourceSize</key>
-			<string>{152,44}</string>
-			<key>textureRect</key>
-			<string>{{158,717},{152,44}}</string>
+			<string>{{0,705},{156,99}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -247,7 +182,7 @@
 			<key>spriteSourceSize</key>
 			<string>{109,74}</string>
 			<key>textureRect</key>
-			<string>{{312,717},{109,74}}</string>
+			<string>{{158,705},{109,74}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -260,7 +195,20 @@
 			<key>spriteSourceSize</key>
 			<string>{78,84}</string>
 			<key>textureRect</key>
-			<string>{{423,723},{78,84}}</string>
+			<string>{{269,705},{78,84}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>ninxout.redash/RD_roulette.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{91,95}</string>
+			<key>spriteSourceSize</key>
+			<string>{91,95}</string>
+			<key>textureRect</key>
+			<string>{{355,705},{91,95}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -273,9 +221,9 @@
 			<key>spriteSourceSize</key>
 			<string>{95,104}</string>
 			<key>textureRect</key>
-			<string>{{509,723},{95,104}}</string>
+			<string>{{452,744},{95,104}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ninxout.redash/RD_saved.png</key>
 		<dict>
@@ -286,20 +234,7 @@
 			<key>spriteSourceSize</key>
 			<string>{133,112}</string>
 			<key>textureRect</key>
-			<string>{{158,763},{133,112}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>ninxout.redash/RD_savedLabel.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{152,45}</string>
-			<key>spriteSourceSize</key>
-			<string>{152,45}</string>
-			<key>textureRect</key>
-			<string>{{293,803},{152,45}}</string>
+			<string>{{158,785},{133,112}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -312,22 +247,9 @@
 			<key>spriteSourceSize</key>
 			<string>{110,111}</string>
 			<key>textureRect</key>
-			<string>{{0,818},{110,111}}</string>
+			<string>{{293,798},{110,111}}</string>
 			<key>textureRotated</key>
 			<true/>
-		</dict>
-		<key>ninxout.redash/RD_searchLabel.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{0,0}</string>
-			<key>spriteSize</key>
-			<string>{190,45}</string>
-			<key>spriteSourceSize</key>
-			<string>{190,45}</string>
-			<key>textureRect</key>
-			<string>{{293,850},{190,45}}</string>
-			<key>textureRotated</key>
-			<false/>
 		</dict>
 		<key>ninxout.redash/RD_superexpert.png</key>
 		<dict>
@@ -338,7 +260,7 @@
 			<key>spriteSourceSize</key>
 			<string>{110,88}</string>
 			<key>textureRect</key>
-			<string>{{485,829},{110,88}}</string>
+			<string>{{0,806},{110,88}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -350,7 +272,7 @@
 		<key>realTextureFileName</key>
 		<string>ninxout.redash/redashsheet1-hd.png</string>
 		<key>size</key>
-		<string>{604,928}</string>
+		<string>{564,908}</string>
 		<key>textureFileName</key>
 		<string>ninxout.redash/redashsheet1-hd.png</string>
 	</dict>

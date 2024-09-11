@@ -7,5 +7,4 @@ Works best with either the [Happy Textures](https://geode-sdk.org/mods/alphalane
 
 Credits to **@/atlasfox** on Discord for making the tetrys-themed Better Progression "Tier Up!" text and editing the sprites for The Map, Lists, Paths, Event, and Versus in GameSheet04.
 
-BetterDF and CatsDF created by Brift
-(tetrysTP x BetterDF & CatsDF mixes by me)
+BetterDF and CatsDF created by Brift.

@@ -498,6 +498,19 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>geode.loader/tag-modtober.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{588,156}</string>
+			<key>spriteSourceSize</key>
+			<string>{588,157}</string>
+			<key>textureRect</key>
+			<string>{{0,1379},{588,156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>geode.loader/tag-paid.png</key>
 		<dict>
 			<key>spriteOffset</key>
@@ -507,7 +520,7 @@
 			<key>spriteSourceSize</key>
 			<string>{408,157}</string>
 			<key>textureRect</key>
-			<string>{{0,1379},{408,156}}</string>
+			<string>{{590,1473},{408,156}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -533,7 +546,7 @@
 			<key>spriteSourceSize</key>
 			<string>{116,116}</string>
 			<key>textureRect</key>
-			<string>{{410,1370},{110,110}}</string>
+			<string>{{1425,1379},{110,110}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -546,7 +559,7 @@
 			<key>spriteSourceSize</key>
 			<string>{116,116}</string>
 			<key>textureRect</key>
-			<string>{{522,1372},{112,112}}</string>
+			<string>{{1537,1379},{112,112}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -559,7 +572,7 @@
 			<key>spriteSourceSize</key>
 			<string>{116,116}</string>
 			<key>textureRect</key>
-			<string>{{1425,1379},{112,112}}</string>
+			<string>{{1251,1420},{112,112}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -572,9 +585,9 @@
 			<key>spriteSourceSize</key>
 			<string>{65,100}</string>
 			<key>textureRect</key>
-			<string>{{1570,1262},{65,100}}</string>
+			<string>{{1000,1484},{65,100}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -584,7 +597,7 @@
 		<key>realTextureFileName</key>
 		<string>geode.loader/APISheet-uhd.png</string>
 		<key>size</key>
-		<string>{1650,1535}</string>
+		<string>{1650,1629}</string>
 		<key>textureFileName</key>
 		<string>geode.loader/APISheet-uhd.png</string>
 	</dict>

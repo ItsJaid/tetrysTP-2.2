@@ -115,5 +115,25 @@
         "r": 25,
         "g": 25,
         "b": 25
+    },
+    "play-loading-outer": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "play-loading-center": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "play-loading-inner": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "play-loading-progress": {
+        "r": 255,
+        "g": 255,
+        "b": 255
     }
 }

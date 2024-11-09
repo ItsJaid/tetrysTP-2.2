@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{41,70}</string>
                 <key>textureRect</key>
-                <string>{{984,1},{39,46}}</string>
+                <string>{{506,911},{39,46}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,9 +30,9 @@
                 <key>spriteSourceSize</key>
                 <string>{119,125}</string>
                 <key>textureRect</key>
-                <string>{{818,753},{119,125}}</string>
+                <string>{{789,836},{119,125}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_chaos_001.png</key>
             <dict>
@@ -45,7 +45,22 @@
                 <key>spriteSourceSize</key>
                 <string>{118,122}</string>
                 <key>textureRect</key>
-                <string>{{635,897},{118,122}}</string>
+                <string>{{910,526},{118,122}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>island_cosmos_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,16}</string>
+                <key>spriteSize</key>
+                <string>{127,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{127,179}</string>
+                <key>textureRect</key>
+                <string>{{524,68},{127,147}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,9 +75,9 @@
                 <key>spriteSourceSize</key>
                 <string>{119,122}</string>
                 <key>textureRect</key>
-                <string>{{907,136},{119,116}}</string>
+                <string>{{266,893},{119,116}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_death_001.png</key>
             <dict>
@@ -75,9 +90,9 @@
                 <key>spriteSourceSize</key>
                 <string>{118,160}</string>
                 <key>textureRect</key>
-                <string>{{548,650},{118,138}}</string>
+                <string>{{910,1},{118,138}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_demon_001.png</key>
             <dict>
@@ -90,9 +105,9 @@
                 <key>spriteSourceSize</key>
                 <string>{118,129}</string>
                 <key>textureRect</key>
-                <string>{{663,778},{118,125}}</string>
+                <string>{{910,276},{118,125}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_doom_001.png</key>
             <dict>
@@ -105,9 +120,9 @@
                 <key>spriteSourceSize</key>
                 <string>{118,141}</string>
                 <key>textureRect</key>
-                <string>{{820,634},{118,135}}</string>
+                <string>{{910,140},{118,135}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_fire_001.png</key>
             <dict>
@@ -120,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{119,121}</string>
                 <key>textureRect</key>
-                <string>{{789,873},{119,121}}</string>
+                <string>{{909,886},{119,121}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -135,9 +150,9 @@
                 <key>spriteSourceSize</key>
                 <string>{119,113}</string>
                 <key>textureRect</key>
-                <string>{{907,256},{119,113}}</string>
+                <string>{{386,911},{119,113}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_lava_001.png</key>
             <dict>
@@ -150,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{120,133}</string>
                 <key>textureRect</key>
-                <string>{{255,859},{120,133}}</string>
+                <string>{{132,798},{120,133}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -165,9 +180,9 @@
                 <key>spriteSourceSize</key>
                 <string>{119,128}</string>
                 <key>textureRect</key>
-                <string>{{389,867},{119,126}}</string>
+                <string>{{909,759},{119,126}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_monster_001.png</key>
             <dict>
@@ -180,7 +195,7 @@
                 <key>spriteSourceSize</key>
                 <string>{119,132}</string>
                 <key>textureRect</key>
-                <string>{{687,658},{119,130}}</string>
+                <string>{{264,509},{119,130}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -195,9 +210,9 @@
                 <key>spriteSourceSize</key>
                 <string>{130,179}</string>
                 <key>textureRect</key>
-                <string>{{611,131},{130,147}}</string>
+                <string>{{1,572},{130,147}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_ncs02_001.png</key>
             <dict>
@@ -210,9 +225,9 @@
                 <key>spriteSourceSize</key>
                 <string>{130,179}</string>
                 <key>textureRect</key>
-                <string>{{759,136},{130,147}}</string>
+                <string>{{1,720},{130,147}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new01_001.png</key>
             <dict>
@@ -225,7 +240,7 @@
                 <key>spriteSourceSize</key>
                 <string>{133,133}</string>
                 <key>textureRect</key>
-                <string>{{282,466},{133,133}}</string>
+                <string>{{395,636},{133,133}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -240,9 +255,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,158}</string>
                 <key>textureRect</key>
-                <string>{{869,376},{128,144}}</string>
+                <string>{{781,148},{128,144}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new03_001.png</key>
             <dict>
@@ -255,9 +270,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,138}</string>
                 <key>textureRect</key>
-                <string>{{415,610},{128,132}}</string>
+                <string>{{781,293},{128,132}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new04_001.png</key>
             <dict>
@@ -270,9 +285,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,161}</string>
                 <key>textureRect</key>
-                <string>{{857,505},{128,139}}</string>
+                <string>{{652,294},{128,139}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new05_001.png</key>
             <dict>
@@ -285,9 +300,9 @@
                 <key>spriteSourceSize</key>
                 <string>{125,136}</string>
                 <key>textureRect</key>
-                <string>{{553,524},{125,136}}</string>
+                <string>{{528,774},{125,136}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new06_001.png</key>
             <dict>
@@ -300,7 +315,7 @@
                 <key>spriteSourceSize</key>
                 <string>{135,139}</string>
                 <key>textureRect</key>
-                <string>{{274,729},{129,129}}</string>
+                <string>{{265,629},{129,129}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -315,9 +330,9 @@
                 <key>spriteSourceSize</key>
                 <string>{137,232}</string>
                 <key>textureRect</key>
-                <string>{{629,1},{129,182}}</string>
+                <string>{{1,68},{129,182}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new08_001.png</key>
             <dict>
@@ -330,9 +345,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,138}</string>
                 <key>textureRect</key>
-                <string>{{141,583},{128,138}}</string>
+                <string>{{395,223},{128,138}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new09_001.png</key>
             <dict>
@@ -345,9 +360,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,142}</string>
                 <key>textureRect</key>
-                <string>{{1,584},{128,138}}</string>
+                <string>{{266,228},{128,138}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new10_001.png</key>
             <dict>
@@ -360,9 +375,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,153}</string>
                 <key>textureRect</key>
-                <string>{{1,197},{128,147}}</string>
+                <string>{{1,868},{128,147}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new11_001.png</key>
             <dict>
@@ -375,9 +390,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,162}</string>
                 <key>textureRect</key>
-                <string>{{439,223},{128,146}}</string>
+                <string>{{781,1},{128,146}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new12_001.png</key>
             <dict>
@@ -390,9 +405,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,138}</string>
                 <key>textureRect</key>
-                <string>{{416,481},{128,136}}</string>
+                <string>{{781,426},{128,136}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new13_001.png</key>
             <dict>
@@ -405,9 +420,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,145}</string>
                 <key>textureRect</key>
-                <string>{{1,842},{128,129}}</string>
+                <string>{{652,434},{128,129}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new14_001.png</key>
             <dict>
@@ -420,9 +435,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,139}</string>
                 <key>textureRect</key>
-                <string>{{1,455},{128,139}}</string>
+                <string>{{395,362},{128,139}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new15_001.png</key>
             <dict>
@@ -435,9 +450,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,145}</string>
                 <key>textureRect</key>
-                <string>{{715,400},{128,141}}</string>
+                <string>{{266,367},{128,141}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new16_001.png</key>
             <dict>
@@ -450,9 +465,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,181}</string>
                 <key>textureRect</key>
-                <string>{{149,197},{128,147}}</string>
+                <string>{{652,1},{128,147}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new17_001.png</key>
             <dict>
@@ -465,7 +480,7 @@
                 <key>spriteSourceSize</key>
                 <string>{128,192}</string>
                 <key>textureRect</key>
-                <string>{{482,68},{128,154}}</string>
+                <string>{{395,68},{128,154}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -480,9 +495,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,133}</string>
                 <key>textureRect</key>
-                <string>{{140,712},{128,133}}</string>
+                <string>{{395,502},{128,133}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new19_001.png</key>
             <dict>
@@ -495,9 +510,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,154}</string>
                 <key>textureRect</key>
-                <string>{{1,326},{128,144}}</string>
+                <string>{{652,149},{128,144}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new20_001.png</key>
             <dict>
@@ -510,9 +525,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,169}</string>
                 <key>textureRect</key>
-                <string>{{163,68},{128,159}}</string>
+                <string>{{266,68},{128,159}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new21_001.png</key>
             <dict>
@@ -525,9 +540,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,200}</string>
                 <key>textureRect</key>
-                <string>{{323,68},{128,158}}</string>
+                <string>{{1,413},{128,158}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new22_001.png</key>
             <dict>
@@ -540,7 +555,7 @@
                 <key>spriteSourceSize</key>
                 <string>{128,154}</string>
                 <key>textureRect</key>
-                <string>{{280,600},{128,134}}</string>
+                <string>{{131,240},{128,134}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -555,9 +570,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,207}</string>
                 <key>textureRect</key>
-                <string>{{1,68},{128,161}}</string>
+                <string>{{1,251},{128,161}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new24_001.png</key>
             <dict>
@@ -570,9 +585,9 @@
                 <key>spriteSourceSize</key>
                 <string>{138,161}</string>
                 <key>textureRect</key>
-                <string>{{291,331},{134,137}}</string>
+                <string>{{654,707},{134,137}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new25_001.png</key>
             <dict>
@@ -585,9 +600,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,168}</string>
                 <key>textureRect</key>
-                <string>{{429,352},{128,142}}</string>
+                <string>{{781,563},{128,142}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new26_001.png</key>
             <dict>
@@ -600,9 +615,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,151}</string>
                 <key>textureRect</key>
-                <string>{{1,713},{128,133}}</string>
+                <string>{{266,759},{128,133}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new27_001.png</key>
             <dict>
@@ -615,9 +630,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,168}</string>
                 <key>textureRect</key>
-                <string>{{572,395},{128,142}}</string>
+                <string>{{652,564},{128,142}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new28_001.png</key>
             <dict>
@@ -630,9 +645,9 @@
                 <key>spriteSourceSize</key>
                 <string>{138,229}</string>
                 <key>textureRect</key>
-                <string>{{812,1},{134,171}}</string>
+                <string>{{131,68},{134,171}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new29_001.png</key>
             <dict>
@@ -645,9 +660,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,139}</string>
                 <key>textureRect</key>
-                <string>{{404,739},{128,127}}</string>
+                <string>{{524,216},{128,127}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>island_new30_001.png</key>
             <dict>
@@ -660,7 +675,7 @@
                 <key>spriteSourceSize</key>
                 <string>{128,145}</string>
                 <key>textureRect</key>
-                <string>{{690,529},{128,129}}</string>
+                <string>{{654,845},{128,129}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -675,9 +690,9 @@
                 <key>spriteSourceSize</key>
                 <string>{132,167}</string>
                 <key>textureRect</key>
-                <string>{{586,262},{132,141}}</string>
+                <string>{{132,656},{132,141}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new32_001.png</key>
             <dict>
@@ -690,9 +705,9 @@
                 <key>spriteSourceSize</key>
                 <string>{132,166}</string>
                 <key>textureRect</key>
-                <string>{{728,267},{132,140}}</string>
+                <string>{{395,770},{132,140}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new33_001.png</key>
             <dict>
@@ -705,9 +720,9 @@
                 <key>spriteSourceSize</key>
                 <string>{133,167}</string>
                 <key>textureRect</key>
-                <string>{{297,197},{133,141}}</string>
+                <string>{{130,369},{133,141}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new34_001.png</key>
             <dict>
@@ -720,9 +735,9 @@
                 <key>spriteSourceSize</key>
                 <string>{128,172}</string>
                 <key>textureRect</key>
-                <string>{{146,326},{128,144}}</string>
+                <string>{{132,511},{128,144}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_new35_001.png</key>
             <dict>
@@ -735,9 +750,9 @@
                 <key>spriteSourceSize</key>
                 <string>{127,166}</string>
                 <key>textureRect</key>
-                <string>{{141,455},{127,140}}</string>
+                <string>{{524,345},{127,140}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>island_poison_001.png</key>
             <dict>
@@ -750,7 +765,7 @@
                 <key>spriteSourceSize</key>
                 <string>{118,131}</string>
                 <key>textureRect</key>
-                <string>{{516,889},{118,123}}</string>
+                <string>{{910,402},{118,123}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -765,9 +780,24 @@
                 <key>spriteSourceSize</key>
                 <string>{118,117}</string>
                 <key>textureRect</key>
-                <string>{{909,873},{118,109}}</string>
+                <string>{{910,649},{118,109}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
+            </dict>
+            <key>island_space_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,16}</string>
+                <key>spriteSize</key>
+                <string>{127,147}</string>
+                <key>spriteSourceSize</key>
+                <string>{127,179}</string>
+                <key>textureRect</key>
+                <string>{{524,486},{127,147}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
             <key>island_spike_001.png</key>
             <dict>
@@ -780,7 +810,7 @@
                 <key>spriteSourceSize</key>
                 <string>{119,143}</string>
                 <key>textureRect</key>
-                <string>{{135,841},{119,139}}</string>
+                <string>{{529,634},{119,139}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -795,9 +825,9 @@
                 <key>spriteSourceSize</key>
                 <string>{119,137}</string>
                 <key>textureRect</key>
-                <string>{{533,769},{119,129}}</string>
+                <string>{{789,706},{119,129}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>theLostGauntletsLabel_001.png</key>
             <dict>
@@ -826,9 +856,9 @@
             <key>realTextureFileName</key>
             <string>GauntletSheet-hd.png</string>
             <key>size</key>
-            <string>{1024,1024}</string>
+            <string>{1029,1029}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:fd65a9b78532349192cf677b36d8154a:c17dc4cc66d2a96c7dd01f054367bf87:e43528e55c10f2683a103180db48aec4$</string>
+            <string>$TexturePacker:SmartUpdate:dacafdaee04c63b9a8d2b93daa29b8bf:0cdf6f63ca801b669f2ddfb5bdd5d22b:e43528e55c10f2683a103180db48aec4$</string>
             <key>textureFileName</key>
             <string>GauntletSheet-hd.png</string>
         </dict>

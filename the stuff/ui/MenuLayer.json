@@ -1,0 +1,14 @@
+{
+    "children": {
+        "node": {
+            "player-username": {
+                "attributes": {
+                    "position": {
+                        "x": 43.5,
+                        "y": 141
+                    }
+                }
+            }
+        }
+    }
+}

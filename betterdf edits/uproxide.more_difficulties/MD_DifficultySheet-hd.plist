@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>MD_Difficulty04_Legacy.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty04_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -19,7 +19,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty04.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty04.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -34,7 +34,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty04Small_Lecacy.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty04Small_Lecacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -49,7 +49,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty04Small.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty04Small.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -64,7 +64,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty07_Legacy.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty07_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -79,7 +79,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty07.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty07.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -94,7 +94,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>MD_Difficulty07Small_Legacy.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty07Small_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -109,7 +109,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty07Small.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty07Small.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -124,7 +124,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty09_Legacy.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty09_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -139,7 +139,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>MD_Difficulty09.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty09.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -154,7 +154,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty09Small_Legacy.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty09Small_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -169,7 +169,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_Difficulty09Small.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty09Small.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -184,7 +184,7 @@
 				<key>textureRotated</key>
 				<true/>
 			</dict>
-			<key>MD_DifficultyCP.png</key>
+			<key>uproxide.more_difficulties/MD_DifficultyCP.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -199,7 +199,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_LegendaryGlow.png</key>
+			<key>uproxide.more_difficulties/MD_LegendaryGlow.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -214,7 +214,7 @@
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>MD_MythicGlow.png</key>
+			<key>uproxide.more_difficulties/MD_MythicGlow.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -239,11 +239,11 @@
 			<key>premultiplyAlpha</key>
 			<false/>
 			<key>realTextureFileName</key>
-			<string>MD_DifficultySheet-hd.png</string>
+			<string>uproxide.more_difficulties/MD_DifficultySheet-hd.png</string>
 			<key>size</key>
 			<string>{281,278}</string>
 			<key>textureFileName</key>
-			<string>MD_DifficultySheet-hd.png</string>
+			<string>uproxide.more_difficulties/MD_DifficultySheet-hd.png</string>
 		</dict>
 	</dict>
 </plist>

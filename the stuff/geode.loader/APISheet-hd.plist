@@ -134,6 +134,19 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>geode.loader/file-add.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{95,121}</string>
+			<key>spriteSourceSize</key>
+			<string>{95,121}</string>
+			<key>textureRect</key>
+			<string>{{208,52},{95,121}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
 		<key>geode.loader/file.png</key>
 		<dict>
 			<key>spriteOffset</key>
@@ -169,7 +182,7 @@
 			<key>spriteSourceSize</key>
 			<string>{687,32}</string>
 			<key>textureRect</key>
-			<string>{{0,91},{687,32}}</string>
+			<string>{{0,149},{687,32}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -208,7 +221,20 @@
 			<key>spriteSourceSize</key>
 			<string>{90,90}</string>
 			<key>textureRect</key>
-			<string>{{0,125},{90,90}}</string>
+			<string>{{689,131},{90,90}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>geode.loader/grid-view.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{46,46}</string>
+			<key>spriteSourceSize</key>
+			<string>{46,46}</string>
+			<key>textureRect</key>
+			<string>{{0,183},{46,46}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -221,7 +247,7 @@
 			<key>spriteSourceSize</key>
 			<string>{63,63}</string>
 			<key>textureRect</key>
-			<string>{{92,125},{63,63}}</string>
+			<string>{{48,183},{63,63}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -234,7 +260,7 @@
 			<key>spriteSourceSize</key>
 			<string>{89,89}</string>
 			<key>textureRect</key>
-			<string>{{157,125},{89,89}}</string>
+			<string>{{113,183},{89,89}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -247,7 +273,7 @@
 			<key>spriteSourceSize</key>
 			<string>{47,47}</string>
 			<key>textureRect</key>
-			<string>{{248,125},{47,47}}</string>
+			<string>{{204,183},{47,47}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -260,7 +286,7 @@
 			<key>spriteSourceSize</key>
 			<string>{57,57}</string>
 			<key>textureRect</key>
-			<string>{{297,125},{57,55}}</string>
+			<string>{{253,183},{57,55}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -273,9 +299,9 @@
 			<key>spriteSourceSize</key>
 			<string>{47,47}</string>
 			<key>textureRect</key>
-			<string>{{356,125},{44,47}}</string>
+			<string>{{781,131},{44,47}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>geode.loader/message.png</key>
 		<dict>
@@ -286,7 +312,7 @@
 			<key>spriteSourceSize</key>
 			<string>{60,56}</string>
 			<key>textureRect</key>
-			<string>{{405,125},{60,56}}</string>
+			<string>{{312,183},{60,56}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -299,7 +325,7 @@
 			<key>spriteSourceSize</key>
 			<string>{778,70}</string>
 			<key>textureRect</key>
-			<string>{{0,217},{778,70}}</string>
+			<string>{{0,274},{778,70}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -312,7 +338,7 @@
 			<key>spriteSourceSize</key>
 			<string>{778,70}</string>
 			<key>textureRect</key>
-			<string>{{0,289},{778,70}}</string>
+			<string>{{0,346},{778,70}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -325,7 +351,7 @@
 			<key>spriteSourceSize</key>
 			<string>{33,128}</string>
 			<key>textureRect</key>
-			<string>{{780,131},{33,128}}</string>
+			<string>{{781,180},{33,128}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -338,7 +364,7 @@
 			<key>spriteSourceSize</key>
 			<string>{33,128}</string>
 			<key>textureRect</key>
-			<string>{{780,261},{33,128}}</string>
+			<string>{{780,310},{33,128}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -351,7 +377,7 @@
 			<key>spriteSourceSize</key>
 			<string>{825,120}</string>
 			<key>textureRect</key>
-			<string>{{0,391},{825,120}}</string>
+			<string>{{0,440},{825,120}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -364,7 +390,7 @@
 			<key>spriteSourceSize</key>
 			<string>{825,120}</string>
 			<key>textureRect</key>
-			<string>{{0,513},{825,120}}</string>
+			<string>{{0,562},{825,120}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -377,7 +403,7 @@
 			<key>spriteSourceSize</key>
 			<string>{41,47}</string>
 			<key>textureRect</key>
-			<string>{{0,635},{41,47}}</string>
+			<string>{{0,684},{41,47}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -390,7 +416,7 @@
 			<key>spriteSourceSize</key>
 			<string>{64,64}</string>
 			<key>textureRect</key>
-			<string>{{49,635},{64,54}}</string>
+			<string>{{49,684},{64,54}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -403,7 +429,7 @@
 			<key>spriteSourceSize</key>
 			<string>{64,57}</string>
 			<key>textureRect</key>
-			<string>{{115,635},{64,57}}</string>
+			<string>{{115,684},{64,57}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -416,7 +442,7 @@
 			<key>spriteSourceSize</key>
 			<string>{61,61}</string>
 			<key>textureRect</key>
-			<string>{{181,635},{60,57}}</string>
+			<string>{{181,684},{60,57}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -429,7 +455,7 @@
 			<key>spriteSourceSize</key>
 			<string>{61,61}</string>
 			<key>textureRect</key>
-			<string>{{243,635},{60,57}}</string>
+			<string>{{243,684},{60,57}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -442,7 +468,7 @@
 			<key>spriteSourceSize</key>
 			<string>{64,64}</string>
 			<key>textureRect</key>
-			<string>{{305,635},{59,59}}</string>
+			<string>{{305,684},{59,59}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -455,7 +481,7 @@
 			<key>spriteSourceSize</key>
 			<string>{104,106}</string>
 			<key>textureRect</key>
-			<string>{{366,635},{104,106}}</string>
+			<string>{{366,684},{104,106}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -468,7 +494,7 @@
 			<key>spriteSourceSize</key>
 			<string>{64,64}</string>
 			<key>textureRect</key>
-			<string>{{474,635},{64,64}}</string>
+			<string>{{474,684},{64,64}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -481,7 +507,7 @@
 			<key>spriteSourceSize</key>
 			<string>{110,110}</string>
 			<key>textureRect</key>
-			<string>{{540,635},{110,110}}</string>
+			<string>{{540,684},{110,110}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -494,7 +520,33 @@
 			<key>spriteSourceSize</key>
 			<string>{86,78}</string>
 			<key>textureRect</key>
-			<string>{{652,635},{86,78}}</string>
+			<string>{{652,684},{86,78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>geode.loader/tag-joke.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{86,78}</string>
+			<key>spriteSourceSize</key>
+			<string>{86,78}</string>
+			<key>textureRect</key>
+			<string>{{740,684},{86,78}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>geode.loader/tag-modtober-long.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{351,78}</string>
+			<key>spriteSourceSize</key>
+			<string>{351,78}</string>
+			<key>textureRect</key>
+			<string>{{0,745},{351,78}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -503,15 +555,15 @@
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{294,78}</string>
+			<string>{86,78}</string>
 			<key>spriteSourceSize</key>
-			<string>{294,78}</string>
+			<string>{86,78}</string>
 			<key>textureRect</key>
-			<string>{{0,694},{294,78}}</string>
+			<string>{{652,764},{86,78}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>geode.loader/tag-paid.png</key>
+		<key>geode.loader/tag-paid-long.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
@@ -520,9 +572,22 @@
 			<key>spriteSourceSize</key>
 			<string>{204,78}</string>
 			<key>textureRect</key>
-			<string>{{296,741},{204,78}}</string>
+			<string>{{353,796},{204,78}}</string>
 			<key>textureRotated</key>
 			<false/>
+		</dict>
+		<key>geode.loader/tag-paid.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{86,78}</string>
+			<key>spriteSourceSize</key>
+			<string>{86,78}</string>
+			<key>textureRect</key>
+			<string>{{740,772},{86,78}}</string>
+			<key>textureRotated</key>
+			<true/>
 		</dict>
 		<key>geode.loader/update.png</key>
 		<dict>
@@ -533,7 +598,7 @@
 			<key>spriteSourceSize</key>
 			<string>{71,57}</string>
 			<key>textureRect</key>
-			<string>{{740,635},{71,57}}</string>
+			<string>{{559,796},{71,57}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -546,7 +611,7 @@
 			<key>spriteSourceSize</key>
 			<string>{58,58}</string>
 			<key>textureRect</key>
-			<string>{{740,694},{58,58}}</string>
+			<string>{{0,825},{58,58}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -559,7 +624,7 @@
 			<key>spriteSourceSize</key>
 			<string>{58,58}</string>
 			<key>textureRect</key>
-			<string>{{652,715},{58,58}}</string>
+			<string>{{60,825},{58,58}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -572,7 +637,7 @@
 			<key>spriteSourceSize</key>
 			<string>{58,58}</string>
 			<key>textureRect</key>
-			<string>{{502,747},{58,58}}</string>
+			<string>{{120,825},{58,58}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -585,7 +650,7 @@
 			<key>spriteSourceSize</key>
 			<string>{32,50}</string>
 			<key>textureRect</key>
-			<string>{{562,747},{32,50}}</string>
+			<string>{{180,825},{32,50}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -597,7 +662,7 @@
 		<key>realTextureFileName</key>
 		<string>geode.loader/APISheet-hd.png</string>
 		<key>size</key>
-		<string>{825,819}</string>
+		<string>{825,883}</string>
 		<key>textureFileName</key>
 		<string>geode.loader/APISheet-hd.png</string>
 	</dict>

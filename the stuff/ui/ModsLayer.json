@@ -1,0 +1,99 @@
+{
+    "children": {
+        "node": {
+            "tabs-menu": {
+                "children": {
+                    "all": {
+                        "event": {
+                            "on-activate": {
+                                "parent": {
+                                    "parent": {
+                                        "children": {
+                                            "node": {
+                                                "mod-list-frame": {
+                                                    "children": {
+                                                        "node": {
+                                                            "ModList": {
+                                                                "children": {
+                                                                    "node": {
+                                                                        "top-container": {
+                                                                            "children": {
+                                                                                "node": {
+                                                                                    "search-menu": {
+                                                                                        "children": {
+                                                                                            "node": {
+                                                                                                "search-id": {
+                                                                                                    "attributes": {
+                                                                                                        "color": {
+                                                                                                            "r": 25,
+                                                                                                            "g": 25,
+                                                                                                            "b": 25
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "mod-list-frame": {
+                "children": {
+                    "node": {
+                        "frame-bg": {
+                            "attributes": {
+                                "color": {
+                                    "r": 31,
+                                    "g": 31,
+                                    "b": 31
+                                }
+                            }
+                        },
+                        "ModList": {
+                            "children": {
+                                "node": {
+                                    "top-container": {
+                                        "children": {
+                                            "node": {
+                                                "search-menu": {
+                                                    "children": {
+                                                        "node": {
+                                                            "search-id": {
+                                                                "attributes": {
+                                                                    "color": {
+                                                                        "r": 25,
+                                                                        "g": 25,
+                                                                        "b": 25
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

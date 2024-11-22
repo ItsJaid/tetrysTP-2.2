@@ -1,0 +1,15 @@
+{
+    "children": {
+        "node": {
+            "background": {
+                "attributes": {
+                    "color": {
+                        "r": 40,
+                        "g": 40,
+                        "b": 40
+                    }
+                }
+            }
+        }
+    }
+}

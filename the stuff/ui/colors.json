@@ -30,46 +30,44 @@
         "b": 31
     },
     "list-cell-odd": {
-        "r": 48,
-        "g": 48,
-        "b": 48
+        "r": 34,
+        "g": 34,
+        "b": 34
     },
     "list-cell-even": {
-        "r": 80,
-        "g": 80,
-        "b": 80
+        "r": 51,
+        "g": 51,
+        "b": 51
     },
     "comment-cell-odd": {
-        "r": 48,
-        "g": 48,
-        "b": 48
+        "r": 34,
+        "g": 34,
+        "b": 34
     },
     "comment-cell-even": {
-        "r": 80,
-        "g": 80,
-        "b": 80
+        "r": 51,
+        "g": 51,
+        "b": 51
     },
     "comment-cell-small-odd": {
-        "r": 48,
-        "g": 48,
-        "b": 48
+        "r": 34,
+        "g": 34,
+        "b": 34
     },
     "comment-cell-small-even": {
-        "r": 80,
-        "g": 80,
-        "b": 80
+        "r": 51,
+        "g": 51,
+        "b": 51
     },
     "comment-cell-bg-odd": {
-        "r": 0,
-        "g": 0,
-        "b": 0,
-        "a": 32
+        "r": 36,
+        "g": 36,
+        "b": 36
     },
     "comment-cell-bg-even": {
-        "r": 0,
-        "g": 0,
-        "b": 0,
-        "a": 32
+        "r": 45,
+        "g": 45,
+        "b": 45
     },
     "comment-list-layer-bg": {
         "r": 31,

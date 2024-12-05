@@ -45,7 +45,7 @@
 				<key>spriteSourceSize</key>
 				<string>{63,59}</string>
 				<key>textureRect</key>
-				<string>{{199,0},{63,59}}</string>
+				<string>{{199,65},{63,59}}</string>
 				<key>textureRotated</key>
 				<true/>
 			</dict>
@@ -60,9 +60,9 @@
 				<key>spriteSourceSize</key>
 				<string>{63,59}</string>
 				<key>textureRect</key>
-				<string>{{199,64},{63,59}}</string>
+				<string>{{0,215},{63,59}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_Difficulty07_Legacy.png</key>
 			<dict>
@@ -105,9 +105,9 @@
 				<key>spriteSourceSize</key>
 				<string>{63,59}</string>
 				<key>textureRect</key>
-				<string>{{166,150},{63,59}}</string>
+				<string>{{64,215},{63,59}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_Difficulty07Small.png</key>
 			<dict>
@@ -120,7 +120,7 @@
 				<key>spriteSourceSize</key>
 				<string>{63,59}</string>
 				<key>textureRect</key>
-				<string>{{0,215},{63,59}}</string>
+				<string>{{128,215},{63,59}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -165,7 +165,7 @@
 				<key>spriteSourceSize</key>
 				<string>{63,59}</string>
 				<key>textureRect</key>
-				<string>{{64,215},{63,59}}</string>
+				<string>{{192,215},{63,59}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -180,7 +180,7 @@
 				<key>spriteSourceSize</key>
 				<string>{63,59}</string>
 				<key>textureRect</key>
-				<string>{{128,214},{63,59}}</string>
+				<string>{{256,129},{63,59}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -206,13 +206,13 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{60,60}</string>
+				<string>{64,60}</string>
 				<key>spriteSourceSize</key>
-				<string>{60,60}</string>
+				<string>{64,60}</string>
 				<key>textureRect</key>
-				<string>{{192,214},{60,60}}</string>
+				<string>{{166,150},{64,60}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_MythicGlow.png</key>
 			<dict>
@@ -221,13 +221,13 @@
 				<key>spriteOffset</key>
 				<string>{0,0}</string>
 				<key>spriteSize</key>
-				<string>{60,60}</string>
+				<string>{64,60}</string>
 				<key>spriteSourceSize</key>
-				<string>{60,60}</string>
+				<string>{64,60}</string>
 				<key>textureRect</key>
-				<string>{{259,0},{60,60}}</string>
+				<string>{{199,0},{64,60}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 		</dict>
 		<key>metadata</key>

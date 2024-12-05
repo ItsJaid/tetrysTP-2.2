@@ -9,32 +9,32 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1.5,-1}</string>
+				<string>{0,1}</string>
 				<key>spriteSize</key>
-				<string>{163,169}</string>
+				<string>{129,165}</string>
 				<key>spriteSourceSize</key>
-				<string>{166,171}</string>
+				<string>{165,171}</string>
 				<key>textureRect</key>
-				<string>{{0,0},{163,169}}</string>
+				<string>{{0,171},{129,165}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_Difficulty04.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-0.5,0.5}</string>
+				<string>{-1,1.5}</string>
 				<key>spriteSize</key>
-				<string>{129,166}</string>
+				<string>{129,163}</string>
 				<key>spriteSourceSize</key>
-				<string>{164,171}</string>
+				<string>{163,174}</string>
 				<key>textureRect</key>
-				<string>{{170,170},{129,166}}</string>
+				<string>{{370,0},{129,163}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
-			<key>uproxide.more_difficulties/MD_Difficulty04Small_Lecacy.png</key>
+			<key>uproxide.more_difficulties/MD_Difficulty04Small_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
@@ -45,7 +45,7 @@
 				<key>spriteSourceSize</key>
 				<string>{120,120}</string>
 				<key>textureRect</key>
-				<string>{{425,244},{120,120}}</string>
+				<string>{{0,422},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -60,7 +60,7 @@
 				<key>spriteSourceSize</key>
 				<string>{120,120}</string>
 				<key>textureRect</key>
-				<string>{{0,428},{120,120}}</string>
+				<string>{{121,422},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -69,13 +69,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1.5,-1}</string>
+				<string>{-0.5,-2}</string>
 				<key>spriteSize</key>
-				<string>{139,169}</string>
+				<string>{120,170}</string>
 				<key>spriteSourceSize</key>
-				<string>{142,171}</string>
+				<string>{139,174}</string>
 				<key>textureRect</key>
-				<string>{{164,0},{139,169}}</string>
+				<string>{{0,0},{120,170}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -84,15 +84,15 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,-1}</string>
+				<string>{-0.5,-2}</string>
 				<key>spriteSize</key>
-				<string>{120,169}</string>
+				<string>{120,170}</string>
 				<key>spriteSourceSize</key>
-				<string>{140,171}</string>
+				<string>{139,174}</string>
 				<key>textureRect</key>
-				<string>{{0,170},{120,169}}</string>
+				<string>{{121,0},{120,170}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_Difficulty07Small_Legacy.png</key>
 			<dict>
@@ -105,7 +105,7 @@
 				<key>spriteSourceSize</key>
 				<string>{120,120}</string>
 				<key>textureRect</key>
-				<string>{{121,428},{120,120}}</string>
+				<string>{{242,418},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -120,7 +120,7 @@
 				<key>spriteSourceSize</key>
 				<string>{120,120}</string>
 				<key>textureRect</key>
-				<string>{{300,332},{120,120}}</string>
+				<string>{{363,418},{120,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -129,43 +129,43 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{1,0}</string>
+				<string>{-3.5,-0.5}</string>
 				<key>spriteSize</key>
-				<string>{136,167}</string>
+				<string>{127,165}</string>
 				<key>spriteSourceSize</key>
-				<string>{138,167}</string>
+				<string>{136,172}</string>
 				<key>textureRect</key>
-				<string>{{0,291},{136,167}}</string>
+				<string>{{242,0},{127,165}}</string>
 				<key>textureRotated</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_Difficulty09.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{-1,1}</string>
+				<string>{-0.5,-0.5}</string>
 				<key>spriteSize</key>
 				<string>{123,165}</string>
 				<key>spriteSourceSize</key>
-				<string>{137,167}</string>
+				<string>{136,172}</string>
 				<key>textureRect</key>
-				<string>{{304,0},{123,165}}</string>
+				<string>{{166,171},{123,165}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_Difficulty09Small_Legacy.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{-3.5,0}</string>
 				<key>spriteSize</key>
-				<string>{120,120}</string>
+				<string>{127,120}</string>
 				<key>spriteSourceSize</key>
-				<string>{120,120}</string>
+				<string>{144,120}</string>
 				<key>textureRect</key>
-				<string>{{421,365},{120,120}}</string>
+				<string>{{370,164},{127,120}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -180,9 +180,9 @@
 				<key>spriteSourceSize</key>
 				<string>{120,115}</string>
 				<key>textureRect</key>
-				<string>{{0,549},{118,115}}</string>
+				<string>{{500,0},{118,115}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_DifficultyCP.png</key>
 			<dict>
@@ -195,22 +195,22 @@
 				<key>spriteSourceSize</key>
 				<string>{120,173}</string>
 				<key>textureRect</key>
-				<string>{{304,166},{120,165}}</string>
+				<string>{{0,301},{120,165}}</string>
 				<key>textureRotated</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>uproxide.more_difficulties/MD_LegendaryGlow.png</key>
 			<dict>
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,3}</string>
 				<key>spriteSize</key>
-				<string>{121,121}</string>
+				<string>{122,122}</string>
 				<key>spriteSourceSize</key>
-				<string>{121,121}</string>
+				<string>{122,128}</string>
 				<key>textureRect</key>
-				<string>{{428,0},{121,121}}</string>
+				<string>{{166,295},{122,122}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -219,13 +219,13 @@
 				<key>aliases</key>
 				<array/>
 				<key>spriteOffset</key>
-				<string>{0,0}</string>
+				<string>{0,3}</string>
 				<key>spriteSize</key>
-				<string>{121,121}</string>
+				<string>{122,122}</string>
 				<key>spriteSourceSize</key>
-				<string>{121,121}</string>
+				<string>{122,128}</string>
 				<key>textureRect</key>
-				<string>{{428,122},{121,121}}</string>
+				<string>{{289,295},{122,122}}</string>
 				<key>textureRotated</key>
 				<false/>
 			</dict>
@@ -241,7 +241,7 @@
 			<key>realTextureFileName</key>
 			<string>uproxide.more_difficulties/MD_DifficultySheet-uhd.png</string>
 			<key>size</key>
-			<string>{549,664}</string>
+			<string>{615,542}</string>
 			<key>textureFileName</key>
 			<string>uproxide.more_difficulties/MD_DifficultySheet-uhd.png</string>
 		</dict>

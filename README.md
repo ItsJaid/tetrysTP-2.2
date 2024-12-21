@@ -5,6 +5,6 @@ You can download this from the releases tab or through the [Texture Workshop](ht
 
 Works best with the [Happy Textures](https://geode-sdk.org/mods/alphalaneous.happy_textures) mod.
 
-Credits to **@/atlasfox** on Discord for making the tetrys-themed Better Progression "Tier Up!" text and editing the sprites for The Map, Lists, Paths, Event, and Versus in GameSheet04.
+Credits to **@/atlasfox** on Discord for making the tetrys-themed Better Progression "Tier Up!" text and editing the sprites for The Map, Lists, Paths, Event, and Versus in GameSheet04, and the Bonus button from GD Lite in BetterInfo.
 
 BetterDF and CatsDF created by Brift.

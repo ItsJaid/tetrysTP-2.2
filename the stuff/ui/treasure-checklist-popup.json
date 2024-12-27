@@ -1,0 +1,16 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCScale9Sprite",
+                "attributes": {
+                    "color": {
+                        "r": 16,
+                        "g": 16,
+                        "b": 16
+                    }
+                }
+            }
+        ]
+    }
+}

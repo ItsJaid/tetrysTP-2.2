@@ -1,0 +1,21 @@
+{
+    "children": {
+        "node": {
+            "main-layer": {
+                "children": {
+                    "node": {
+                        "background": {
+                            "attributes": {
+                                "color": {
+                                    "r": 25,
+                                    "g": 25,
+                                    "b": 25
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

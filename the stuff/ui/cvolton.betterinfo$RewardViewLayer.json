@@ -1,0 +1,15 @@
+{
+    "children": {
+        "node": {
+            "cvolton.betterinfo/background": {
+                "attributes": {
+                    "color": {
+                        "r": 41,
+                        "g": 41,
+                        "b": 41
+                    }
+                }
+            }
+        }
+    }
+}

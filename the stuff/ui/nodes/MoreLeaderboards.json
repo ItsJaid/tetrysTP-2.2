@@ -1,0 +1,28 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCSprite",
+                "index": 0,
+                "attributes": {
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255
+                    }
+                }
+            },
+            {
+                "type": "CCSprite",
+                "index": 3,
+                "attributes": {
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255
+                    }
+                }
+            }
+        ]
+    }
+}

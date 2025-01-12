@@ -1,0 +1,38 @@
+{
+    "parent": {
+        "parent": {
+            "parent": {
+                "parent": {
+                    "children": {
+                        "node": {
+                            "DailyLevelPage": {
+                                "children": {
+                                    "index": [
+                                        {
+                                            "type": "CCLayer",
+                                            "children": {
+                                                "node": {
+                                                    "DailyLevelNode": {
+                                                        "children": {
+                                                            "node": {
+                                                                "cdc.level_thumbnails/border": {
+                                                                    "attributes": {
+                                                                        "visible": false
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

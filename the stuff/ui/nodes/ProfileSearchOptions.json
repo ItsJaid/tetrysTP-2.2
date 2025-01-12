@@ -1,0 +1,45 @@
+{
+    "children": {
+        "node": {
+            "cvolton.betterinfo/main-layer": {
+                "children": {
+                    "node": {
+                        "cvolton.betterinfo/button-menu": {
+                            "children": {
+                                "node": {
+                                    "cvolton.betterinfo/length-background": {
+                                        "attributes": {
+                                            "color": {
+                                                "r": 16,
+                                                "g": 16,
+                                                "b": 16
+                                            }
+                                        }
+                                    },
+                                    "cvolton.betterinfo/difficulty-background": {
+                                        "attributes": {
+                                            "color": {
+                                                "r": 16,
+                                                "g": 16,
+                                                "b": 16
+                                            }
+                                        }
+                                    },
+                                    "cvolton.betterinfo/demon-difficulty-background": {
+                                        "attributes": {
+                                            "color": {
+                                                "r": 16,
+                                                "g": 16,
+                                                "b": 16
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

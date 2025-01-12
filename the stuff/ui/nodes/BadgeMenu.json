@@ -1,0 +1,71 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCLayer",
+                "children": {
+                    "index": [
+                        {
+                            "type": "OldBorder",
+                            "attributes": {
+                                "color": {
+                                    "r": 25,
+                                    "g": 25,
+                                    "b": 25
+                                }
+                            },
+                            "children": {
+                                "node": {
+                                    "jouca.badgesapi/border_content": {
+                                        "children": {
+                                            "index": [
+                                                {
+                                                    "type": "ListView",
+                                                    "children": {
+                                                        "index": [
+                                                            {
+                                                                "type": "TableView",
+                                                                "children": {
+                                                                    "index": [
+                                                                        {
+                                                                            "type": "CCContentLayer",
+                                                                            "children": {
+                                                                                "index": [
+                                                                                    {
+                                                                                        "type": "GenericListCell",
+                                                                                        "children": {
+                                                                                            "index": [
+                                                                                                {
+                                                                                                    "type": "CCLayerColor",
+                                                                                                    "attributes": {
+                                                                                                        "color": {
+                                                                                                            "r": 31,
+                                                                                                            "g": 31,
+                                                                                                            "b": 31
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

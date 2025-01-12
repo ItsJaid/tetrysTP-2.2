@@ -1,0 +1,22 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCLayer",
+                "children": {
+                    "node": {
+                        "background": {
+                            "attributes": {
+                                "color": {
+                                    "r": 16,
+                                    "g": 16,
+                                    "b": 16
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

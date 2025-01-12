@@ -1,0 +1,51 @@
+{
+    "children": {
+        "node": {
+            "background": {
+                "attributes": {
+                    "color": {
+                        "r": 31,
+                        "g": 31,
+                        "b": 31
+                    }
+                }
+            },
+            "fade-left": {
+                "attributes": {
+                    "color": {
+                        "r": 31,
+                        "g": 31,
+                        "b": 31
+                    }
+                }
+            },
+            "fade-right": {
+                "attributes": {
+                    "color": {
+                        "r": 31,
+                        "g": 31,
+                        "b": 31
+                    }
+                }
+            },
+            "fade-bottom": {
+                "attributes": {
+                    "color": {
+                        "r": 31,
+                        "g": 31,
+                        "b": 31
+                    }
+                }
+            },
+            "top-glow": {
+                "attributes": {
+                    "color": {
+                        "r": 31,
+                        "g": 31,
+                        "b": 31
+                    }
+                }
+            }
+        }
+    }
+}

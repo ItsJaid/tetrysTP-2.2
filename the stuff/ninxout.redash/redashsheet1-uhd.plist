@@ -134,6 +134,19 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>ninxout.redash/RD_geome3dash.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{165,165}</string>
+			<key>spriteSourceSize</key>
+			<string>{165,165}</string>
+			<key>textureRect</key>
+			<string>{{0,324},{165,165}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>ninxout.redash/RD_leaderboards.png</key>
 		<dict>
 			<key>spriteOffset</key>
@@ -143,7 +156,7 @@
 			<key>spriteSourceSize</key>
 			<string>{267,232}</string>
 			<key>textureRect</key>
-			<string>{{0,416},{267,232}}</string>
+			<string>{{167,416},{267,232}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -156,9 +169,9 @@
 			<key>spriteSourceSize</key>
 			<string>{215,190}</string>
 			<key>textureRect</key>
-			<string>{{381,385},{215,190}}</string>
+			<string>{{436,385},{215,190}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ninxout.redash/RD_lists.png</key>
 		<dict>
@@ -169,7 +182,7 @@
 			<key>spriteSourceSize</key>
 			<string>{204,213}</string>
 			<key>textureRect</key>
-			<string>{{598,426},{204,213}}</string>
+			<string>{{628,426},{204,213}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -182,7 +195,7 @@
 			<key>spriteSourceSize</key>
 			<string>{171,177}</string>
 			<key>textureRect</key>
-			<string>{{813,453},{171,177}}</string>
+			<string>{{843,453},{171,177}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -195,7 +208,7 @@
 			<key>spriteSourceSize</key>
 			<string>{808,606}</string>
 			<key>textureRect</key>
-			<string>{{269,632},{808,606}}</string>
+			<string>{{436,632},{808,606}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -221,7 +234,7 @@
 			<key>spriteSourceSize</key>
 			<string>{233,210}</string>
 			<key>textureRect</key>
-			<string>{{1079,453},{233,210}}</string>
+			<string>{{970,1240},{233,210}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -234,7 +247,7 @@
 			<key>spriteSourceSize</key>
 			<string>{193,176}</string>
 			<key>textureRect</key>
-			<string>{{1079,665},{193,176}}</string>
+			<string>{{0,1387},{193,176}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -247,9 +260,9 @@
 			<key>spriteSourceSize</key>
 			<string>{321,215}</string>
 			<key>textureRect</key>
-			<string>{{1079,843},{321,215}}</string>
+			<string>{{195,1387},{321,215}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>ninxout.redash/RD_mappacks2.png</key>
 		<dict>
@@ -260,7 +273,7 @@
 			<key>spriteSourceSize</key>
 			<string>{222,157}</string>
 			<key>textureRect</key>
-			<string>{{1079,1166},{222,157}}</string>
+			<string>{{518,1387},{222,157}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -273,7 +286,7 @@
 			<key>spriteSourceSize</key>
 			<string>{302,194}</string>
 			<key>textureRect</key>
-			<string>{{970,1325},{302,194}}</string>
+			<string>{{742,1452},{302,194}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -286,7 +299,7 @@
 			<key>spriteSourceSize</key>
 			<string>{214,144}</string>
 			<key>textureRect</key>
-			<string>{{0,1387},{214,144}}</string>
+			<string>{{1046,1452},{214,144}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -299,7 +312,7 @@
 			<key>spriteSourceSize</key>
 			<string>{194,210}</string>
 			<key>textureRect</key>
-			<string>{{216,1387},{194,210}}</string>
+			<string>{{518,1546},{194,210}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -312,7 +325,7 @@
 			<key>spriteSourceSize</key>
 			<string>{156,169}</string>
 			<key>textureRect</key>
-			<string>{{428,1387},{156,169}}</string>
+			<string>{{0,1565},{156,169}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -325,7 +338,7 @@
 			<key>spriteSourceSize</key>
 			<string>{182,190}</string>
 			<key>textureRect</key>
-			<string>{{599,1387},{182,190}}</string>
+			<string>{{1046,1598},{182,190}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -338,7 +351,7 @@
 			<key>spriteSourceSize</key>
 			<string>{191,208}</string>
 			<key>textureRect</key>
-			<string>{{791,1521},{191,208}}</string>
+			<string>{{171,1604},{191,208}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -351,7 +364,7 @@
 			<key>spriteSourceSize</key>
 			<string>{250,222}</string>
 			<key>textureRect</key>
-			<string>{{1001,1521},{250,222}}</string>
+			<string>{{730,1648},{250,222}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -364,7 +377,7 @@
 			<key>spriteSourceSize</key>
 			<string>{205,185}</string>
 			<key>textureRect</key>
-			<string>{{0,1533},{205,185}}</string>
+			<string>{{381,1742},{205,185}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -377,7 +390,7 @@
 			<key>spriteSourceSize</key>
 			<string>{218,218}</string>
 			<key>textureRect</key>
-			<string>{{428,1571},{218,218}}</string>
+			<string>{{982,1782},{218,218}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -390,7 +403,7 @@
 			<key>spriteSourceSize</key>
 			<string>{182,182}</string>
 			<key>textureRect</key>
-			<string>{{207,1583},{182,182}}</string>
+			<string>{{0,1797},{182,182}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -403,9 +416,9 @@
 			<key>spriteSourceSize</key>
 			<string>{221,177}</string>
 			<key>textureRect</key>
-			<string>{{648,1714},{221,177}}</string>
+			<string>{{184,1797},{221,177}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>ninxout.redash/RD_versus.png</key>
 		<dict>
@@ -416,7 +429,7 @@
 			<key>spriteSourceSize</key>
 			<string>{234,229}</string>
 			<key>textureRect</key>
-			<string>{{871,1745},{234,229}}</string>
+			<string>{{588,1872},{234,229}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -429,7 +442,7 @@
 			<key>spriteSourceSize</key>
 			<string>{195,191}</string>
 			<key>textureRect</key>
-			<string>{{0,1720},{195,191}}</string>
+			<string>{{363,1929},{195,191}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -441,7 +454,7 @@
 		<key>realTextureFileName</key>
 		<string>ninxout.redash/redashsheet1-uhd.png</string>
 		<key>size</key>
-		<string>{1312,1974}</string>
+		<string>{1260,2120}</string>
 		<key>textureFileName</key>
 		<string>ninxout.redash/redashsheet1-uhd.png</string>
 	</dict>

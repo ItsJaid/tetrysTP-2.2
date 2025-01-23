@@ -9,60 +9,60 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-1}</string>
+                <string>{0,-2}</string>
                 <key>spriteSize</key>
-                <string>{70,67}</string>
+                <string>{70,65}</string>
                 <key>spriteSourceSize</key>
                 <string>{70,69}</string>
                 <key>textureRect</key>
-                <string>{{75,2},{70,67}}</string>
+                <string>{{1,71},{70,65}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>player_97_2_001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-11}</string>
+                <string>{0,-12}</string>
                 <key>spriteSize</key>
-                <string>{67,45}</string>
+                <string>{67,44}</string>
                 <key>spriteSourceSize</key>
                 <string>{67,67}</string>
                 <key>textureRect</key>
-                <string>{{75,74},{67,45}}</string>
+                <string>{{76,1},{67,44}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>player_97_extra_001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-5}</string>
+                <string>{0,-6}</string>
                 <key>spriteSize</key>
-                <string>{49,44}</string>
+                <string>{49,43}</string>
                 <key>spriteSourceSize</key>
                 <string>{49,54}</string>
                 <key>textureRect</key>
-                <string>{{2,78},{49,44}}</string>
+                <string>{{76,69},{49,43}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>player_97_glow_001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-1}</string>
+                <string>{0,-2}</string>
                 <key>spriteSize</key>
-                <string>{74,71}</string>
+                <string>{74,69}</string>
                 <key>spriteSourceSize</key>
                 <string>{74,73}</string>
                 <key>textureRect</key>
-                <string>{{2,2},{74,71}}</string>
+                <string>{{1,1},{74,69}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -76,7 +76,7 @@
             <key>realTextureFileName</key>
             <string>icons/player_97-hd.png</string>
             <key>size</key>
-            <string>{144,124}</string>
+            <string>{121,137}</string>
             <key>smartupdate</key>
             <string>$TexturePacker:SmartUpdate:6a8f8d4308bb094b861720fbce979f1f:84b5af196d238516d3c2623cbeee3ab0:53c1c6311a1ad90d040dba7c4c056dfa$</string>
             <key>textureFileName</key>

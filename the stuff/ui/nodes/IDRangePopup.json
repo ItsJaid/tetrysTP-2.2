@@ -1,0 +1,36 @@
+{
+    "children": {
+        "node": {
+            "cvolton.betterinfo/main-layer": {
+                "children": {
+                    "node": {
+                        "cvolton.betterinfo/button-menu": {
+                            "children": {
+                                "node": {
+                                    "cvolton.betterinfo/min-background": {
+                                        "attributes": {
+                                            "color": {
+                                                "r": 16,
+                                                "g": 16,
+                                                "b": 16
+                                            }
+                                        }
+                                    },
+                                    "cvolton.betterinfo/max-background": {
+                                        "attributes": {
+                                            "color": {
+                                                "r": 16,
+                                                "g": 16,
+                                                "b": 16
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

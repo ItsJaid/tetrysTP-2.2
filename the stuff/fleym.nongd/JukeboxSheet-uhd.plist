@@ -43,19 +43,6 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
-		<key>fleym.nongd/JB_SFHButton.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{2,-2}</string>
-			<key>spriteSize</key>
-			<string>{128,131}</string>
-			<key>spriteSourceSize</key>
-			<string>{132,138}</string>
-			<key>textureRect</key>
-			<string>{{153,369},{128,131}}</string>
-			<key>textureRotated</key>
-			<true/>
-		</dict>
 	</dict>
 	<key>metadata</key>
 	<dict>

@@ -1,0 +1,50 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCScale9Sprite",
+                "index": 0,
+                "attributes": {
+                    "color": {
+                        "r": 22,
+                        "g": 22,
+                        "b": 22
+                    }
+                }
+            },
+            {
+                "type": "CCScale9Sprite",
+                "index": 1,
+                "attributes": {
+                    "color": {
+                        "r": 22,
+                        "g": 22,
+                        "b": 22
+                    }
+                }
+            },
+            {
+                "type": "CCScale9Sprite",
+                "index": 2,
+                "attributes": {
+                    "color": {
+                        "r": 22,
+                        "g": 22,
+                        "b": 22
+                    }
+                }
+            },
+            {
+                "type": "CCScale9Sprite",
+                "index": 3,
+                "attributes": {
+                    "color": {
+                        "r": 22,
+                        "g": 22,
+                        "b": 22
+                    }
+                }
+            }
+        ]
+    }
+}

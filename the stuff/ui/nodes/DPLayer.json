@@ -1,0 +1,16 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCLayerColor",
+                "attributes": {
+                    "color": {
+                        "r": 31,
+                        "g": 31,
+                        "b": 31
+                    }
+                }
+            }
+        ]
+    }
+}

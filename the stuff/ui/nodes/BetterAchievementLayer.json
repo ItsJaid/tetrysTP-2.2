@@ -1,0 +1,24 @@
+{
+    "children": {
+        "node": {
+            "content-background": {
+                "attributes": {
+                    "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255
+                    }
+                }
+            },
+            "list-layer": {
+                "attributes": {
+                    "color": {
+                        "r": 25,
+                        "g": 25,
+                        "b": 25
+                    }
+                }
+            }
+        }
+    }
+}

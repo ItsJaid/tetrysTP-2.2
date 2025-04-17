@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>limegradient.betterachievements/percent-button.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{-1,-1}</string>
+			<key>spriteSize</key>
+			<string>{182,180}</string>
+			<key>spriteSourceSize</key>
+			<string>{184,182}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{182,180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>limegradient.betterachievements/tab-selected.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{369,128}</string>
+			<key>spriteSourceSize</key>
+			<string>{369,128}</string>
+			<key>textureRect</key>
+			<string>{{0,182},{369,128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>realTextureFileName</key>
+		<string>limegradient.betterachievements/AchievementMenuSheet-uhd.png</string>
+		<key>size</key>
+		<string>{369,310}</string>
+		<key>textureFileName</key>
+		<string>limegradient.betterachievements/AchievementMenuSheet-uhd.png</string>
+	</dict>
+</dict>
+</plist>

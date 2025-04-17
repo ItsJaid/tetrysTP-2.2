@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>km7dev.quests_in_pause_menu/chest.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{1,-4}</string>
+			<key>spriteSize</key>
+			<string>{123,127}</string>
+			<key>spriteSourceSize</key>
+			<string>{136,141}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{123,127}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>km7dev.quests_in_pause_menu/quests.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{1,-5}</string>
+			<key>spriteSize</key>
+			<string>{122,126}</string>
+			<key>spriteSourceSize</key>
+			<string>{136,141}</string>
+			<key>textureRect</key>
+			<string>{{0,125},{122,126}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>realTextureFileName</key>
+		<string>km7dev.quests_in_pause_menu/km7QuestSheet-uhd.png</string>
+		<key>size</key>
+		<string>{127,247}</string>
+		<key>textureFileName</key>
+		<string>km7dev.quests_in_pause_menu/km7QuestSheet-uhd.png</string>
+	</dict>
+</dict>
+</plist>

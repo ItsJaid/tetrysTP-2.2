@@ -4,44 +4,31 @@
 <dict>
 	<key>frames</key>
 	<dict>
-		<key>fleym.nongd/JB_Edit.png</key>
+		<key>limegradient.betterachievements/percent-button.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{118,107}</string>
+			<string>{92,91}</string>
 			<key>spriteSourceSize</key>
-			<string>{128,128}</string>
+			<string>{92,91}</string>
 			<key>textureRect</key>
-			<string>{{0,0},{118,107}}</string>
+			<string>{{0,0},{92,91}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>fleym.nongd/JB_ListLogo.png</key>
-		<dict>
-			<key>spriteOffset</key>
-			<string>{-4,-8}</string>
-			<key>spriteSize</key>
-			<string>{1270,258}</string>
-			<key>spriteSourceSize</key>
-			<string>{1366,318}</string>
-			<key>textureRect</key>
-			<string>{{0,109},{1270,258}}</string>
-			<key>textureRotated</key>
-			<false/>
-		</dict>
-		<key>fleym.nongd/JB_PinDisc.png</key>
+		<key>limegradient.betterachievements/tab-selected.png</key>
 		<dict>
 			<key>spriteOffset</key>
 			<string>{0,0}</string>
 			<key>spriteSize</key>
-			<string>{150,151}</string>
+			<string>{184,64}</string>
 			<key>spriteSourceSize</key>
-			<string>{150,151}</string>
+			<string>{184,64}</string>
 			<key>textureRect</key>
-			<string>{{0,369},{150,151}}</string>
+			<string>{{0,93},{184,64}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -49,11 +36,11 @@
 		<key>format</key>
 		<integer>3</integer>
 		<key>realTextureFileName</key>
-		<string>fleym.nongd/JukeboxSheet-uhd.png</string>
+		<string>limegradient.betterachievements/AchievementMenuSheet-hd.png</string>
 		<key>size</key>
-		<string>{1270,519}</string>
+		<string>{184,157}</string>
 		<key>textureFileName</key>
-		<string>fleym.nongd/JukeboxSheet-uhd.png</string>
+		<string>limegradient.betterachievements/AchievementMenuSheet-hd.png</string>
 	</dict>
 </dict>
 </plist>

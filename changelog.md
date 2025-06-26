@@ -81,8 +81,9 @@ Geode: Updated APISheet to add the API tag sprite
  - Thanks to atlasfox once again for making the text for the Bonus button!
 
 # v1.18.7b (12/14/24)
-- GJ_GameSheet02-uhd: "how in the actual living fuck did i replace the tetrys checkpoint with the vanilla one and how has no one told me for over 3 months"
-  - (This is the name of the commit on the GitHub repo)
+- GJ_GameSheet02-uhd: 
+![Screenshot_20241214-135725-005](https://github.com/user-attachments/assets/8cc5129f-d525-44e6-ae76-bb45ac6aacb7)
+
 
 # v1.18.7 (12/12/24)
 - Geode: Updated APISheet to add Modtober Winner tag and hue-shift the featured tag

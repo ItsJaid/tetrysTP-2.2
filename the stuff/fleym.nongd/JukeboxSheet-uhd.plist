@@ -43,6 +43,32 @@
 			<key>textureRotated</key>
 			<true/>
 		</dict>
+		<key>fleym.nongd/JB_PinDiscGold.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{146,146}</string>
+			<key>spriteSourceSize</key>
+			<string>{146,146}</string>
+			<key>textureRect</key>
+			<string>{{153,369},{146,146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fleym.nongd/JB_PinDiscRays.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{180,180}</string>
+			<key>spriteSourceSize</key>
+			<string>{180,180}</string>
+			<key>textureRect</key>
+			<string>{{301,369},{180,180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>metadata</key>
 	<dict>
@@ -51,7 +77,7 @@
 		<key>realTextureFileName</key>
 		<string>fleym.nongd/JukeboxSheet-uhd.png</string>
 		<key>size</key>
-		<string>{1270,519}</string>
+		<string>{1270,549}</string>
 		<key>textureFileName</key>
 		<string>fleym.nongd/JukeboxSheet-uhd.png</string>
 	</dict>

@@ -1,0 +1,11 @@
+{ 
+    "children": {
+        "node": {
+            "ground-layer": {
+                "attributes": {
+                    "visible": false
+                }
+            }
+        }
+    }
+}

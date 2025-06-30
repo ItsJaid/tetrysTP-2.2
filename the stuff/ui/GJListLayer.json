@@ -1,0 +1,39 @@
+{
+    "parent": {
+        "parent": {
+            "children": {
+                "node": {
+                    "IDListLayer": {
+                        "children": {
+                            "node": {
+                                "GJListLayer": {
+                                    "children": {
+                                        "index": [
+                                            {
+                                                "type": "CCMenu",
+                                                "children": {
+                                                    "index": [
+                                                        {
+                                                            "type": "CCLayerColor",
+                                                            "attributes": {
+                                                                "color": {
+                                                                    "r": 25,
+                                                                    "g": 25,
+                                                                    "b": 25
+                                                                }
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,5 +1,8 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.19.5 (6/29/25)
+- BetterEdit: Updated spritesheet
+
 # v1.19.4 (6/26/25)
 - Jukebox: Updated spritesheet
 - Added Level Quests support

@@ -1,5 +1,9 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.19.8 (7/13/25)
+- Treasure Checklist: Hue-shifted settings sprite, fixed Happy Textures modification
+- Shopping List: Hue-shifted settings sprite
+
 # v1.19.7 (7/1/25)
 - Happy Textures: Fixed `ModsLayer.json` modifications not applying on initial entering of the Featured/Download/Recent tabs
   - Thanks to Alphalaneous for doing this for me! (I am not smart)

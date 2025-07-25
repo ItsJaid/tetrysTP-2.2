@@ -17,6 +17,19 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>geode.loader/geode-logo-alternate.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{324,324}</string>
+			<key>spriteSourceSize</key>
+			<string>{336,336}</string>
+			<key>textureRect</key>
+			<string>{{130,0},{324,324}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>geode.loader/geode-logo-color.png</key>
 		<dict>
 			<key>spriteOffset</key>
@@ -26,7 +39,7 @@
 			<key>spriteSourceSize</key>
 			<string>{236,237}</string>
 			<key>textureRect</key>
-			<string>{{130,0},{228,229}}</string>
+			<string>{{456,0},{228,229}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -39,7 +52,7 @@
 			<key>spriteSourceSize</key>
 			<string>{129,133}</string>
 			<key>textureRect</key>
-			<string>{{361,0},{129,131}}</string>
+			<string>{{456,230},{129,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -52,7 +65,7 @@
 			<key>spriteSourceSize</key>
 			<string>{129,131}</string>
 			<key>textureRect</key>
-			<string>{{494,0},{129,131}}</string>
+			<string>{{0,326},{129,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -65,7 +78,7 @@
 			<key>spriteSourceSize</key>
 			<string>{336,336}</string>
 			<key>textureRect</key>
-			<string>{{0,230},{324,324}}</string>
+			<string>{{133,361},{324,324}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -78,7 +91,7 @@
 			<key>spriteSourceSize</key>
 			<string>{336,336}</string>
 			<key>textureRect</key>
-			<string>{{0,556},{324,324}}</string>
+			<string>{{0,687},{324,324}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -91,7 +104,7 @@
 			<key>spriteSourceSize</key>
 			<string>{380,380}</string>
 			<key>textureRect</key>
-			<string>{{0,882},{371,375}}</string>
+			<string>{{326,687},{371,375}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -103,7 +116,7 @@
 		<key>realTextureFileName</key>
 		<string>geode.loader/LogoSheet-uhd.png</string>
 		<key>size</key>
-		<string>{625,1253}</string>
+		<string>{701,1058}</string>
 		<key>textureFileName</key>
 		<string>geode.loader/LogoSheet-uhd.png</string>
 	</dict>

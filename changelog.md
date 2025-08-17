@@ -1,5 +1,8 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.19.10 (8/17/25)
+- Menu Loop Randomizer: Hue-shifted new sprites
+
 # v1.19.9 (7/25/25)
 - Geode: Updated LogoSheet
 

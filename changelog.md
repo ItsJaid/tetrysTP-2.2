@@ -1,5 +1,8 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.19.11 (9/17/25)
+- Added Title Logo Tweaks support
+
 # v1.19.10 (8/17/25)
 - Menu Loop Randomizer: Hue-shifted new sprites
 
@@ -25,7 +28,7 @@ All dates are listed in MM/DD/YY and times are in EST/EDT.
 - Added Level Quests support
 
 # v1.19.3 (6/25/25)
-Geode: Updated APISheet to add the API tag sprite
+- Geode: Updated APISheet to add the API tag sprite
 
 # v1.19.2 (5/18/25)
 - Globed: Updated spritesheet (thanks to Dasshu for helping out!)

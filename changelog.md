@@ -344,7 +344,7 @@ Both High and Medium:
 - Edited the blank green circle sprite in GJ_GameSheet03 (BetterInfo uses it)
 - Google Translate support
 - Edited the list editing button 
- -  Also known as Gamemode Swapper's alternative button
+  - Also known as Gamemode Swapper's alternative button
 - Edited the Music Library button
 - Edited the local scores button
 

@@ -1,4 +1,4 @@
-All dates are listed in MM/DD/YY and times are in EST/EDT.
+All dates are listed in M/D/YY and times are in EST/EDT.
 
 # v1.19.11 (9/17/25)
 - Added Title Logo Tweaks support
@@ -89,7 +89,7 @@ All dates are listed in MM/DD/YY and times are in EST/EDT.
 - Garage Plus: Edited the text on the Shops button
 - Geode: Edited a sprite in BlankSheet for Pathfinder
 
-(this probably should've been 1.19.0 but oh well)
+(this probably should've been v1.19.0 but oh well)
 
 # v1.18.9 (12/27/24)
 - Added GDPS Switcher support
@@ -202,7 +202,7 @@ and, because im a fucking dumbass:
 # v1.17.20 (8/24/24)
 - Menu Loop Randomizer: Edited regenerate notification sprite
 
-# v1.17.19 (8/23/24
+# v1.17.19 (8/23/24)
 - Geode: Edited blue button sprite
 
 # v1.17.18 (8/18/24)
@@ -339,12 +339,12 @@ Both High and Medium:
 - Hue-shifted the "The Treasure Room" label to blue
 - Globed: Edited the last couple of buttons
 - Edited the level/list search switch buttons
- - Also known as the editor level/list switch buttons
+  - Also known as the editor level/list switch buttons
 - Edited the uploaded lists button
 - Edited the blank green circle sprite in GJ_GameSheet03 (BetterInfo uses it)
 - Google Translate support
 - Edited the list editing button 
- - Also known as Gamemode Swapper's alternative button
+ -  Also known as Gamemode Swapper's alternative button
 - Edited the Music Library button
 - Edited the local scores button
 
@@ -424,12 +424,12 @@ Both:
 
 # High v3 (3/6/24)
 - Fixed missing sprite in GJ_GameSheet03
- - Specifically, "gj_navDotBtn_off_001.png", the sprite for unselected pages in the icon kit. idk why it was missing
+  - Specifically, "gj_navDotBtn_off_001.png", the sprite for unselected pages in the icon kit. idk why it was missing
 
 # v2 (2/27/24)
 - Fixed visual bugs in the Geode menu due to v2.0.0-beta.21 changing BlankSheet
 
 # v1 (2/13/24)
 - Initial release
- - Ported most of the texture pack
- - Replaced Geode button sprite (later doubled as partial Globed support)
+  - Ported most of the texture pack
+  - Replaced Geode button sprite (later doubled as partial Globed support)

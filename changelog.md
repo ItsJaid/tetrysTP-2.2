@@ -1,4 +1,4 @@
-All dates are listed in M/D/YY and times are in EST/EDT.
+All dates are listed in MM/DD/YY and times are in EST/EDT.
 
 # v1.19.11 (9/17/25)
 - Added Title Logo Tweaks support

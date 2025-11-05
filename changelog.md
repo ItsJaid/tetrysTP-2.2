@@ -1,5 +1,8 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.19.14
+- Added Death Animations support
+
 # v1.19.13
 - Geode: Updated APISheet for Modtober 2025 (this is long overdue...)
 

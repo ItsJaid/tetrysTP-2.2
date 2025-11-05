@@ -1,0 +1,53 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCLayer",
+                "children": {
+                    "node": {
+                        "GJCommentListLayer": {
+                            "children": {
+                                "node": {
+                                    "list-view": {
+                                        "children": {
+                                            "index": [
+                                                {
+                                                    "type": "TableView",
+                                                    "children": {
+                                                        "index": [
+                                                            {
+                                                                "type": "CCContentLayer",
+                                                                "children": {
+                                                                    "all": {
+                                                                        "children": {
+                                                                            "index": [
+                                                                                {
+                                                                                    "type": "CCLayerColor",
+                                                                                    "attributes": {
+                                                                                        "color": {
+                                                                                            "r": 16,
+                                                                                            "g": 16,
+                                                                                            "b": 16
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

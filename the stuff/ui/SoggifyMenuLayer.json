@@ -1,0 +1,16 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCSprite",
+                "attributes": {
+                    "color": {
+                        "r": 31,
+                        "g": 31,
+                        "b": 31
+                    }
+                }
+            }
+        ]
+    }
+}

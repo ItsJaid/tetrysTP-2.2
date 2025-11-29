@@ -1,5 +1,10 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.19.15 (11/29/25)
+- **Added Mega Hack support**
+- Added Soggify support: Changed menu background color
+- Mega Hack Installer: Updated button sprite
+
 # v1.19.14 (11/5/25)
 - Added Death Animations support
 

@@ -7,7 +7,6 @@ All dates are listed in MM/DD/YY and times are in EST/EDT.
   - flip the `left-border` node and replace the corner sprites in Lists
     - Once again, thanks to Alphalaneous for helping me get around RobTop's stupid game
 
-
 # v1.19.15 (11/29/25)
 - **Added Mega Hack support**
 - Added Soggify support: Changed menu background color

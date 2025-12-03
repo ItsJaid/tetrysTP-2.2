@@ -1,0 +1,45 @@
+{
+    "schedule": {
+        "children": {
+            "node": {
+                "GJListLayer": {
+                    "children": {
+                        "node": {
+                            "left-border": {
+                                "attributes": {
+                                    "rotation": {
+                                        "x": 180
+                                    },
+                                    "position": {
+                                        "x": -20,
+                                        "y": 219
+                                    }
+                                }
+                            },
+                            "top-left-corner": {
+                                "attributes": {
+                                    "sprite": "purple-corner.png"
+                                }
+                            },
+                            "top-right-corner": {
+                                "attributes": {
+                                    "sprite": "blue-corner.png"
+                                }
+                            },
+                            "bottom-left-corner": {
+                                "attributes": {
+                                    "sprite": "blue-corner.png"
+                                }
+                            },
+                            "bottom-right-corner": {
+                                "attributes": {
+                                    "sprite": "purple-corner.png"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

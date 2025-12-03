@@ -44,6 +44,45 @@
                         }
                     }
                 }
+            },
+            "tabs-menu": {
+                "children": {
+                    "all": {
+                        "children": {
+                            "index": [
+                                {
+                                    "type": "GeodeTabSprite",
+                                    "children": {
+                                        "index": [
+                                            {
+                                                "type": "CCScale9Sprite",
+                                                "index": 0,
+                                                "attributes": {
+                                                    "color": {
+                                                        "r": 41,
+                                                        "g": 41,
+                                                        "b": 41
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "type": "CCScale9Sprite",
+                                                "index": 1,
+                                                "attributes": {
+                                                    "color": {
+                                                        "r": 186,
+                                                        "g": 186,
+                                                        "b": 186
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
             }
         }
     }

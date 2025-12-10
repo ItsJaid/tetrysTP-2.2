@@ -1,5 +1,9 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.19.17 (12/10/2025)
+- Mega Hack: Edited same dual color on/off button sprites
+- LoadingLayer: Made the background a bit brighter
+
 # v1.19.16 (12/3/2025)
 - Geode: Modified tab colors and fixed stray pixels in APISheet-uhd
 - Used Happy Textures to:

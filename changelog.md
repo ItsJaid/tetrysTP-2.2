@@ -1,5 +1,8 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.20.2 (2/25/2025)
+- Happy Textures: Fixed Geode tab colors and modified reload sprite color on `restart-gd-button`
+
 # v1.20.1 (2/24/2026)
 - Geode: Updated APISheet
 

@@ -1,6 +1,35 @@
 {
     "children": {
         "node": {
+            "actions-menu": {
+                "children": {
+                    "node": {
+                        "restart-gd-button": {
+                            "children": {
+                                "index": [
+                                    {
+                                        "type": "CircleButtonSprite",
+                                        "children": {
+                                            "index": [
+                                                {
+                                                    "type": "CCSprite",
+                                                    "attributes": {
+                                                        "color": {
+                                                            "r": 65,
+                                                            "g": 215,
+                                                            "b": 255
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            },
             "mod-list-frame": {
                 "schedule": {
                     "children": {
@@ -55,7 +84,7 @@
                                     "children": {
                                         "index": [
                                             {
-                                                "type": "CCScale9Sprite",
+                                                "type": "NineSlice",
                                                 "index": 0,
                                                 "attributes": {
                                                     "color": {
@@ -66,7 +95,7 @@
                                                 }
                                             },
                                             {
-                                                "type": "CCScale9Sprite",
+                                                "type": "NineSlice",
                                                 "index": 1,
                                                 "attributes": {
                                                     "color": {

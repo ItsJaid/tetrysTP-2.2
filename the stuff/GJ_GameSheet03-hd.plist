@@ -2070,7 +2070,7 @@
                 <key>spriteSourceSize</key>
                 <string>{43,46}</string>
                 <key>textureRect</key>
-                <string>{{1690,1693},{43,46}}</string>
+                <string>{{1866,1691},{43,46}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -2565,7 +2565,7 @@
                 <key>spriteSourceSize</key>
                 <string>{52,55}</string>
                 <key>textureRect</key>
-                <string>{{1281,1903},{52,53}}</string>
+                <string>{{1410,1812},{52,53}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -4695,7 +4695,7 @@
                 <key>spriteSourceSize</key>
                 <string>{58,58}</string>
                 <key>textureRect</key>
-                <string>{{707,1784},{58,58}}</string>
+                <string>{{1281,1903},{58,58}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -6349,6 +6349,36 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>gj_linkDisableBtn_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{58,60}</string>
+                <key>spriteSourceSize</key>
+                <string>{58,60}</string>
+                <key>textureRect</key>
+                <string>{{707,1784},{58,60}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>gj_linkEnableBtn_001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{58,60}</string>
+                <key>spriteSourceSize</key>
+                <string>{58,60}</string>
+                <key>textureRect</key>
+                <string>{{768,1784},{58,60}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
             <key>gj_navDotBtn_off_001.png</key>
             <dict>
                 <key>aliases</key>
@@ -6960,7 +6990,7 @@
                 <key>spriteSourceSize</key>
                 <string>{46,46}</string>
                 <key>textureRect</key>
-                <string>{{1866,1691},{44,44}}</string>
+                <string>{{1798,1749},{44,44}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -6975,7 +7005,7 @@
                 <key>spriteSourceSize</key>
                 <string>{46,46}</string>
                 <key>textureRect</key>
-                <string>{{1860,1736},{44,44}}</string>
+                <string>{{1675,1740},{44,44}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -7245,7 +7275,7 @@
                 <key>spriteSourceSize</key>
                 <string>{60,60}</string>
                 <key>textureRect</key>
-                <string>{{1378,1868},{60,60}}</string>
+                <string>{{1399,1868},{60,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -7335,7 +7365,7 @@
                 <key>spriteSourceSize</key>
                 <string>{60,60}</string>
                 <key>textureRect</key>
-                <string>{{1315,1957},{60,60}}</string>
+                <string>{{1315,1962},{60,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -7350,7 +7380,7 @@
                 <key>spriteSourceSize</key>
                 <string>{60,60}</string>
                 <key>textureRect</key>
-                <string>{{1376,1956},{60,60}}</string>
+                <string>{{1376,1962},{60,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -7485,9 +7515,9 @@
                 <key>spriteSourceSize</key>
                 <string>{54,43}</string>
                 <key>textureRect</key>
-                <string>{{1334,1903},{52,43}}</string>
+                <string>{{1860,1735},{52,43}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>rankIcon_top10_001.png</key>
             <dict>
@@ -8220,7 +8250,7 @@
                 <key>spriteSourceSize</key>
                 <string>{46,46}</string>
                 <key>textureRect</key>
-                <string>{{1410,1812},{46,46}}</string>
+                <string>{{1866,1644},{46,46}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -8235,7 +8265,7 @@
                 <key>spriteSourceSize</key>
                 <string>{46,46}</string>
                 <key>textureRect</key>
-                <string>{{1866,1644},{46,46}}</string>
+                <string>{{1690,1693},{46,46}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -8370,7 +8400,7 @@
                 <key>spriteSourceSize</key>
                 <string>{58,58}</string>
                 <key>textureRect</key>
-                <string>{{766,1784},{58,58}}</string>
+                <string>{{1340,1903},{58,58}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -8418,7 +8448,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:3c4aa1e644ef8d2ec67b4d30633e0902:e35c8dec50406a1ab2565de1ca863aa6:cd3ab045ff8ec89044c566bf3c4878b7$</string>
+            <string>$TexturePacker:SmartUpdate:cb1e4e882057e414fb830859da26096d:0f33b77b8d6e1163fe7f424c6dfd84db:cd3ab045ff8ec89044c566bf3c4878b7$</string>
             <key>textureFileName</key>
             <string>GJ_GameSheet03-hd.png</string>
         </dict>

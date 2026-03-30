@@ -1,6 +1,13 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
-# v1.20.2 (2/25/2025)
+# v1.20.4 (3/30/2026)
+- Texture Workshop: Updated spritesheet
+
+# v1.20.3 (3/24/2026)
+- GD: Add missing Link Control sprites in GameSheet03 (fixes #11)
+- Geode: Edit new APISheet sprites (fixes #11)
+
+# v1.20.2 (2/25/2026)
 - Happy Textures: Fixed Geode tab colors and modified reload sprite color on `restart-gd-button`
 
 # v1.20.1 (2/24/2026)

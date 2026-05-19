@@ -1,0 +1,34 @@
+{
+    "schedule": {
+        "children": {
+            "index": [
+                {
+                    "type": "CCLayer",
+                    "children": {
+                        "index": [
+                            {
+                                "type": "FeaturedLevelCell",
+                                "children": {
+                                    "index": [
+                                        {
+                                            "type": "CCNode",
+                                            "children": {
+                                                "node": {
+                                                    "cdc.level_thumbnails/border": {
+                                                        "attributes": {
+                                                            "visible": false
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

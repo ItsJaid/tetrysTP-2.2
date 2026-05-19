@@ -7,7 +7,7 @@
 		<key>geode.loader/geode-circle.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{128,128}</string>
 			<key>spriteSourceSize</key>
@@ -20,7 +20,7 @@
 		<key>geode.loader/geode-logo-alternate.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{324,324}</string>
 			<key>spriteSourceSize</key>
@@ -46,67 +46,93 @@
 		<key>geode.loader/geode-logo-outline-gold.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,1}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
-			<string>{129,131}</string>
+			<string>{128,127}</string>
 			<key>spriteSourceSize</key>
-			<string>{129,133}</string>
+			<string>{128,127}</string>
 			<key>textureRect</key>
-			<string>{{456,230},{129,131}}</string>
+			<string>{{0,130},{128,127}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>geode.loader/geode-logo-outline.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{129,131}</string>
 			<key>spriteSourceSize</key>
 			<string>{129,131}</string>
 			<key>textureRect</key>
-			<string>{{0,326},{129,131}}</string>
+			<string>{{456,230},{129,131}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>geode.loader/geode-logo.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{324,324}</string>
 			<key>spriteSourceSize</key>
 			<string>{336,336}</string>
 			<key>textureRect</key>
-			<string>{{133,361},{324,324}}</string>
+			<string>{{0,326},{324,324}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>geode.loader/logo-base.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{324,324}</string>
 			<key>spriteSourceSize</key>
 			<string>{336,336}</string>
 			<key>textureRect</key>
-			<string>{{0,687},{324,324}}</string>
+			<string>{{326,361},{324,324}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>geode.loader/logo-glow.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0.5,-0.5}</string>
 			<key>spriteSize</key>
 			<string>{371,375}</string>
 			<key>spriteSourceSize</key>
 			<string>{380,380}</string>
 			<key>textureRect</key>
-			<string>{{326,687},{371,375}}</string>
+			<string>{{0,687},{371,375}}</string>
 			<key>textureRotated</key>
 			<true/>
+		</dict>
+		<key>geode.loader/sapphire-logo-outline-gold.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{115,133}</string>
+			<key>spriteSourceSize</key>
+			<string>{115,133}</string>
+			<key>textureRect</key>
+			<string>{{652,230},{115,133}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>geode.loader/sapphire-logo.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{324,324}</string>
+			<key>spriteSourceSize</key>
+			<string>{336,336}</string>
+			<key>textureRect</key>
+			<string>{{377,687},{324,324}}</string>
+			<key>textureRotated</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -116,7 +142,7 @@
 		<key>realTextureFileName</key>
 		<string>geode.loader/LogoSheet-uhd.png</string>
 		<key>size</key>
-		<string>{701,1058}</string>
+		<string>{767,1058}</string>
 		<key>textureFileName</key>
 		<string>geode.loader/LogoSheet-uhd.png</string>
 	</dict>

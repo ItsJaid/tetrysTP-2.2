@@ -38,6 +38,40 @@
                             }
                         }
                     }
+                },
+                "dankmeme.globed2/level-list": {
+                    "children": {
+                        "index": [
+                            {
+                                "type": "ListBorder",
+                                "children": {
+                                    "index": [
+                                        {
+                                            "type": "CCSprite",
+                                            "index": 2,
+                                            "attributes": {
+                                                "position": {
+                                                    "x": 10.7,
+                                                    "y": 110.6
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "type": "CCSprite",
+                                            "index": 3,
+                                                "attributes": {
+                                                "position": {
+                                                    "x": 347.3,
+                                                    "y": 110.6
+                                                }
+                                            }
+
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
                 }
             }
         }

@@ -1,5 +1,16 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.21.0 (5/19/2026)
+- Geode: Updated all spritesheets
+- Globed: Edited all new sprites, re-edited/re-added all pre-existing ones, removed old spritesheet (Thanks again to Dasshu for providing icons!)
+- Happy Textures:
+  - Renamed `TextureWorkshopLayer.json` to `TWSLayer.json` to fix the Texture Workshop background color edit
+  - Edited `LevelListLayer.json` to fix misaligned side borders in Globed's level page
+  - Renamed `CCScale9Sprite.json` to `NineSlice.json`, to fix Level Thumbnails' daily page border not being invisible
+    - Also created `FeaturedPopup.json` for the same purpose for Globed's featured level page
+- GD: Re-hue-shifted the text on the main menu "Daily" sprite in GameSheet03-hd, since it became vanilla somehow
+- Jukebox: Removed old files
+
 # v1.20.4 (3/30/2026)
 - Texture Workshop: Updated spritesheet
 

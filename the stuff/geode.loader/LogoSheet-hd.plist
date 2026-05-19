@@ -7,7 +7,7 @@
 		<key>geode.loader/geode-circle.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{64,64}</string>
 			<key>spriteSourceSize</key>
@@ -20,7 +20,7 @@
 		<key>geode.loader/geode-logo-alternate.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{168,168}</string>
 			<key>spriteSourceSize</key>
@@ -33,80 +33,106 @@
 		<key>geode.loader/geode-logo-color.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{118,118}</string>
 			<key>spriteSourceSize</key>
 			<string>{118,118}</string>
 			<key>textureRect</key>
-			<string>{{0,170},{118,118}}</string>
+			<string>{{236,0},{118,118}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>geode.loader/geode-logo-outline-gold.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
-			<string>{64,66}</string>
+			<string>{64,63}</string>
 			<key>spriteSourceSize</key>
-			<string>{64,66}</string>
+			<string>{64,63}</string>
 			<key>textureRect</key>
-			<string>{{236,0},{64,66}}</string>
+			<string>{{0,66},{64,63}}</string>
 			<key>textureRotated</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>geode.loader/geode-logo-outline.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{64,65}</string>
 			<key>spriteSourceSize</key>
 			<string>{64,65}</string>
 			<key>textureRect</key>
-			<string>{{236,66},{64,65}}</string>
+			<string>{{236,120},{64,65}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
 		<key>geode.loader/geode-logo.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{166,166}</string>
 			<key>spriteSourceSize</key>
 			<string>{168,168}</string>
 			<key>textureRect</key>
-			<string>{{120,170},{166,166}}</string>
+			<string>{{0,170},{166,166}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>geode.loader/logo-base.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{166,166}</string>
 			<key>spriteSourceSize</key>
 			<string>{168,168}</string>
 			<key>textureRect</key>
-			<string>{{0,338},{166,166}}</string>
+			<string>{{168,186},{166,166}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>geode.loader/logo-glow.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0.5,-0.5}</string>
 			<key>spriteSize</key>
 			<string>{187,189}</string>
 			<key>spriteSourceSize</key>
 			<string>{190,190}</string>
 			<key>textureRect</key>
-			<string>{{0,506},{187,189}}</string>
+			<string>{{0,354},{187,189}}</string>
 			<key>textureRotated</key>
 			<true/>
+		</dict>
+		<key>geode.loader/sapphire-logo-outline-gold.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{57,66}</string>
+			<key>spriteSourceSize</key>
+			<string>{57,66}</string>
+			<key>textureRect</key>
+			<string>{{191,354},{57,66}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>geode.loader/sapphire-logo.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{168,168}</string>
+			<key>spriteSourceSize</key>
+			<string>{168,168}</string>
+			<key>textureRect</key>
+			<string>{{191,413},{168,168}}</string>
+			<key>textureRotated</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -116,7 +142,7 @@
 		<key>realTextureFileName</key>
 		<string>geode.loader/LogoSheet-hd.png</string>
 		<key>size</key>
-		<string>{302,693}</string>
+		<string>{359,581}</string>
 		<key>textureFileName</key>
 		<string>geode.loader/LogoSheet-hd.png</string>
 	</dict>

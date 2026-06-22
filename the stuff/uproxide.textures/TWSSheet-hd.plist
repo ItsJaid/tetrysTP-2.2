@@ -30,6 +30,45 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
+		<key>uproxide.textures/TWS_ButtonLarge.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{145,41}</string>
+			<key>spriteSourceSize</key>
+			<string>{145,41}</string>
+			<key>textureRect</key>
+			<string>{{82,722},{145,41}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>uproxide.textures/TWS_ButtonLargeSelected.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{147,43}</string>
+			<key>spriteSourceSize</key>
+			<string>{147,43}</string>
+			<key>textureRect</key>
+			<string>{{229,722},{147,43}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>uproxide.textures/TWS_ButtonSmall.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{66,65}</string>
+			<key>spriteSourceSize</key>
+			<string>{66,65}</string>
+			<key>textureRect</key>
+			<string>{{378,722},{66,65}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
 		<key>uproxide.textures/TWS_Credits.png</key>
 		<dict>
 			<key>spriteOffset</key>
@@ -39,7 +78,7 @@
 			<key>spriteSourceSize</key>
 			<string>{88,84}</string>
 			<key>textureRect</key>
-			<string>{{82,722},{87,84}}</string>
+			<string>{{446,722},{87,84}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -52,7 +91,7 @@
 			<key>spriteSourceSize</key>
 			<string>{92,94}</string>
 			<key>textureRect</key>
-			<string>{{171,722},{92,94}}</string>
+			<string>{{535,722},{92,94}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -65,7 +104,7 @@
 			<key>spriteSourceSize</key>
 			<string>{92,94}</string>
 			<key>textureRect</key>
-			<string>{{267,722},{92,94}}</string>
+			<string>{{631,722},{92,94}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -78,7 +117,7 @@
 			<key>spriteSourceSize</key>
 			<string>{168,168}</string>
 			<key>textureRect</key>
-			<string>{{363,722},{168,168}}</string>
+			<string>{{727,722},{168,168}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -91,7 +130,7 @@
 			<key>spriteSourceSize</key>
 			<string>{277,277}</string>
 			<key>textureRect</key>
-			<string>{{533,722},{277,277}}</string>
+			<string>{{897,722},{277,277}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -104,9 +143,22 @@
 			<key>spriteSourceSize</key>
 			<string>{92,94}</string>
 			<key>textureRect</key>
-			<string>{{812,722},{92,94}}</string>
+			<string>{{1176,722},{92,94}}</string>
 			<key>textureRotated</key>
 			<true/>
+		</dict>
+		<key>uproxide.textures/TWS_FiltersPopdown.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{606,54}</string>
+			<key>spriteSourceSize</key>
+			<string>{606,54}</string>
+			<key>textureRect</key>
+			<string>{{0,816},{606,54}}</string>
+			<key>textureRotated</key>
+			<false/>
 		</dict>
 		<key>uproxide.textures/TWS_InfoButton.png</key>
 		<dict>
@@ -117,7 +169,7 @@
 			<key>spriteSourceSize</key>
 			<string>{92,94}</string>
 			<key>textureRect</key>
-			<string>{{908,722},{92,94}}</string>
+			<string>{{1176,816},{92,94}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -130,7 +182,7 @@
 			<key>spriteSourceSize</key>
 			<string>{573,69}</string>
 			<key>textureRect</key>
-			<string>{{0,1001},{573,69}}</string>
+			<string>{{0,872},{573,69}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -143,7 +195,7 @@
 			<key>spriteSourceSize</key>
 			<string>{90,96}</string>
 			<key>textureRect</key>
-			<string>{{1004,722},{90,96}}</string>
+			<string>{{608,816},{90,96}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -156,9 +208,22 @@
 			<key>spriteSourceSize</key>
 			<string>{650,507}</string>
 			<key>textureRect</key>
-			<string>{{575,1001},{650,507}}</string>
+			<string>{{0,943},{650,507}}</string>
 			<key>textureRotated</key>
 			<false/>
+		</dict>
+		<key>uproxide.textures/TWS_OutlineOld.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{650,507}</string>
+			<key>spriteSourceSize</key>
+			<string>{650,507}</string>
+			<key>textureRect</key>
+			<string>{{706,1001},{650,507}}</string>
+			<key>textureRotated</key>
+			<true/>
 		</dict>
 		<key>uproxide.textures/TWS_PlaceholderLogo.png</key>
 		<dict>
@@ -169,7 +234,7 @@
 			<key>spriteSourceSize</key>
 			<string>{168,168}</string>
 			<key>textureRect</key>
-			<string>{{0,1072},{166,166}}</string>
+			<string>{{0,1452},{166,166}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -182,7 +247,7 @@
 			<key>spriteSourceSize</key>
 			<string>{92,94}</string>
 			<key>textureRect</key>
-			<string>{{168,1072},{92,94}}</string>
+			<string>{{168,1452},{92,94}}</string>
 			<key>textureRotated</key>
 			<true/>
 		</dict>
@@ -195,7 +260,7 @@
 			<key>spriteSourceSize</key>
 			<string>{92,94}</string>
 			<key>textureRect</key>
-			<string>{{264,1072},{86,68}}</string>
+			<string>{{264,1452},{86,68}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -208,9 +273,22 @@
 			<key>spriteSourceSize</key>
 			<string>{39,37}</string>
 			<key>textureRect</key>
-			<string>{{1227,722},{39,37}}</string>
+			<string>{{652,908},{39,37}}</string>
 			<key>textureRotated</key>
 			<false/>
+		</dict>
+		<key>uproxide.textures/TWS_SideBar.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{112,251}</string>
+			<key>spriteSourceSize</key>
+			<string>{112,251}</string>
+			<key>textureRect</key>
+			<string>{{352,1452},{112,251}}</string>
+			<key>textureRotated</key>
+			<true/>
 		</dict>
 		<key>uproxide.textures/TWS_Update.png</key>
 		<dict>
@@ -221,7 +299,7 @@
 			<key>spriteSourceSize</key>
 			<string>{38,87}</string>
 			<key>textureRect</key>
-			<string>{{1227,761},{37,87}}</string>
+			<string>{{1215,910},{37,87}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -234,9 +312,9 @@
 			<key>spriteSourceSize</key>
 			<string>{381,59}</string>
 			<key>textureRect</key>
-			<string>{{168,1166},{381,59}}</string>
+			<string>{{1215,999},{381,59}}</string>
 			<key>textureRotated</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>metadata</key>
@@ -246,7 +324,7 @@
 		<key>realTextureFileName</key>
 		<string>uproxide.textures/TWSSheet-hd.png</string>
 		<key>size</key>
-		<string>{1280,1508}</string>
+		<string>{1280,1651}</string>
 		<key>textureFileName</key>
 		<string>uproxide.textures/TWSSheet-hd.png</string>
 	</dict>

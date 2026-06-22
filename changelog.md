@@ -1,5 +1,8 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
+# v1.21.1 (6/22/2026)
+- Texture Workshop: Updated spritesheet
+
 # v1.21.0 (5/19/2026)
 - Geode: Updated all spritesheets
 - Globed: Edited all new sprites, re-edited/re-added all pre-existing ones, removed old spritesheet (Thanks again to Dasshu for providing icons!)

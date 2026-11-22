@@ -3,6 +3,7 @@ All dates are listed in MM/DD/YY and times are in EST/EDT.
 # v1.22.0 (11/22/26)
 - **Updated for 2.209/2.2091**
   - Added unicode support for chatFont (special thanks to **tetrys herself** for telling me which tool she used)
+  
 (This release doesn't include edits for all the new sprites)
 
 Changes made during 2.2081 (August + September 2026):

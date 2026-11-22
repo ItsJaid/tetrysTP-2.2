@@ -7,9 +7,9 @@ Works best with the [Happy Textures](https://geode-sdk.org/mods/uproxide.happy_t
 Also uses the [More Icons](https://geode-sdk.org/mods/hiimjustin000.more_icons) mod for 2 icons and 3 trails.
 
 Credits:
-**tetrys** for creating this texture pack, and assisting me by providing some info on the creation of the pack
-**Alphalaneous** for creating Happy Textures (and **Uproxide** for inheriting it)
-**@/atlasfox** on Discord for making the tetrys-themed Better Progression "Tier Up!" text and editing the sprites for The Map, Lists, Paths, Event, and Versus in GameSheet04, and the Bonus button from GD Lite in BetterInfo
-**Dasshu** for providing Globed assets
+**tetrys** for creating this texture pack, and assisting me by providing some info on the creation of the pack\
+**Alphalaneous** for creating Happy Textures (and **Uproxide** for inheriting it)\
+**@/atlasfox** on Discord for making the tetrys-themed Better Progression "Tier Up!" text and editing the sprites for The Map, Lists, Paths, Event, and Versus in GameSheet04, and the Bonus button from GD Lite in BetterInfo\
+**Dasshu** for providing Globed assets\
 
 BetterDF and CatsDF created by Brift.

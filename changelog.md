@@ -1,9 +1,33 @@
 All dates are listed in MM/DD/YY and times are in EST/EDT.
 
-# v1.21.1 (6/22/2026)
+# v1.22.0 (11/22/26)
+- **Updated for 2.209/2.2091**
+  - Added unicode support for chatFont (special thanks to **tetrys herself** for telling me which tool she used)
+(This release doesn't include edits for all the new sprites)
+
+Changes made during 2.2081 (August + September 2026):
+- Edited `pack.json` to add tags and dependencies for Texture Workshop
+- Added support for Tinker; edited the "Playtest from Start" button
+- Added support for Over There (Coin Finder); edited its button in the pause menu
+- Added support for Icon Gallery
+- Menu Loop Randomizer: Hue-shifted scroll sprites and skip forward/backward sprites
+- Death Tracker: Edited spritesheet
+- Geode: Edited BlankSheet (for GDShare and Icon Gallery), edited `inverseborder-hd/uhd` (for Death Animations), edited APISheet
+- Better Gauntlets: Edited custom Gauntlets button, hue-shifted title sprites
+- Badges API: Replaced border sprite with the new one I made for Geode
+- BetterInfo: Edited the tab gradient sprite
+- Happy Textures:
+  - (Death Animations) Edited `AnimationsLayer.json` to modify the color of the `Border` node
+  - (Treasure Checklist) Edited `SecretRewardsListAlert.json` to modify the color of one of the `NineSlice` nodes
+  - (Shopping List) Renamed `ShopRewardsListAlert.json` to `ShopListAlert.json`, also edited it to modify the color of one of the `NineSlice` nodes
+  - (GD) Edited `MenuLayer.json` to modify the position of the player username, to re-center it above the profile button again
+  - (Geode) Created `ModPopup.json` to modify the colors of the tabs in the mod popup menu
+  - (BetterInfo) Created `FriendsProfilePage.json` to modify the color of the `cvolton.betterinfo/friends-since-label`, created `LeaderboardViewLayer.json` to modify the color of the background
+
+# v1.21.1 (6/22/26)
 - Texture Workshop: Updated spritesheet
 
-# v1.21.0 (5/19/2026)
+# v1.21.0 (5/19/26)
 - Geode: Updated all spritesheets
 - Globed: Edited all new sprites, re-edited/re-added all pre-existing ones, removed old spritesheet (Thanks again to Dasshu for providing icons!)
 - Happy Textures:
@@ -14,29 +38,29 @@ All dates are listed in MM/DD/YY and times are in EST/EDT.
 - GD: Re-hue-shifted the text on the main menu "Daily" sprite in GameSheet03-hd, since it became vanilla somehow
 - Jukebox: Removed old files
 
-# v1.20.4 (3/30/2026)
+# v1.20.4 (3/30/26)
 - Texture Workshop: Updated spritesheet
 
-# v1.20.3 (3/24/2026)
+# v1.20.3 (3/24/26)
 - GD: Add missing Link Control sprites in GameSheet03 (fixes #11)
 - Geode: Edit new APISheet sprites (fixes #11)
 
-# v1.20.2 (2/25/2026)
+# v1.20.2 (2/25/26)
 - Happy Textures: Fixed Geode tab colors and modified reload sprite color on `restart-gd-button`
 
-# v1.20.1 (2/24/2026)
+# v1.20.1 (2/24/26)
 - Geode: Updated APISheet
 
-# v1.20 (1/19/2026)
-- Updated to 2.208
+# v1.20 (1/19/26)
+- Updated for 2.208
 
 BetterDF and CatsDF mixes will come later.
 
-# v1.19.17 (12/10/2025)
+# v1.19.17 (12/10/25)
 - Mega Hack: Edited same dual color on/off button sprites
 - LoadingLayer: Made the background a bit brighter
 
-# v1.19.16 (12/3/2025)
+# v1.19.16 (12/3/25)
 - Geode: Modified tab colors and fixed stray pixels in APISheet-uhd
 - Used Happy Textures to:
   - modify the LoadingLayer background color
@@ -45,7 +69,7 @@ BetterDF and CatsDF mixes will come later.
 
 # v1.19.15 (11/29/25)
 - **Added Mega Hack support**
-- Added Soggify support: Changed menu background color
+- Added Soggify support; Changed menu background color
 - Mega Hack Installer: Updated button sprite
 
 # v1.19.14 (11/5/25)
@@ -97,21 +121,21 @@ BetterDF and CatsDF mixes will come later.
 
 # v1.19.0 (4/17/25, 12:57 AM)
 - Geode: Edited sprites in BlankSheet for YetAnotherModMenu, GDCP List Integration, and Scale Input+, as well as cleaned up the slightly-low quality mess Colon's splitter caused
-- Added Better Gauntlets support: Hue-shifted the title sprite
+- Added Better Gauntlets support; hue-shifted the title sprite
 - Menu Loop Randomizer: Hue-shifted the Hold, Previous, and Favorite Song sprites
 - Renamed and moved every Happy Textures json to the `ui/nodes` folder for better reliability, and in advance for an update removing ID-based changes
 - GDDP - Demon Progression: Used Happy Textures to recolor a node
 - Jukebox: Updated spritesheet
-- Added Rewards in Pause Menu support: Edited the spritesheet
-- Added Customizable Wave Trail support: Edited the options button
-- Added BetterAchievements support: Edited spritesheet and recolored a few nodes with Happy Textures
+- Added Rewards in Pause Menu support; edited the spritesheet
+- Added Customizable Wave Trail support; edited the options button
+- Added BetterAchievements support; edited spritesheet and recolored a few nodes with Happy Textures
 - Globed: Updated spritesheet (to the currently beta-only one)
-- Added EditorMusic support: Edited slider bar, `album-round` and `album-round-overlay` sprites
-- Added Random Tab support: Hue-shifted logo sprite, recolored nodes with Happy Textures
-- Added Fungal Shift support: Edited the button sprite
-- Added Redo Checkpoint support: Edited the redo sprite
-- Added Named Editour Groups support: Edited the `baseBtn`, pencil, and plus sprites
-- Added Improved Transform Controls support: Edited the spritesheet
+- Added EditorMusic support; edited slider bar, `album-round` and `album-round-overlay` sprites
+- Added Random Tab support; hue-shifted logo sprite, recolored nodes with Happy Textures
+- Added Fungal Shift support; edited the button sprite
+- Added Redo Checkpoint support; edited the redo sprite
+- Added Named Editour Groups support; edited the `baseBtn`, pencil, and plus sprites
+- Added Improved Transform Controls support; edited the spritesheet
 - BetterDF mix: Updated difficulty faces to the new ones
 
 # v1.18.13 (1/23/25, 8:34 PM)

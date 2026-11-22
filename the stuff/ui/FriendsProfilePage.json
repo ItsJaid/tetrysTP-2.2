@@ -1,0 +1,60 @@
+{
+    "schedule": {
+        "children": {
+            "node": {
+                "main-layer": {
+                    "children": {
+                        "node": {
+                            "GJCommentListLayer": {
+                                "children": {
+                                    "node": {
+                                        "list-view": {
+                                            "children": {
+                                                "index": [
+                                                    {
+                                                        "type": "TableView",
+                                                        "children": {
+                                                            "index": [
+                                                                {
+                                                                    "type": "CCContentLayer",
+                                                                    "children": {
+                                                                        "all": {
+                                                                            "children": {
+                                                                                "index": [
+                                                                                    {
+                                                                                        "type": "CCLayer",
+                                                                                        "children": {
+                                                                                            "node": {
+                                                                                                "cvolton.betterinfo/friends-since-label": {
+                                                                                                    "attributes": {
+                                                                                                        "color": {
+                                                                                                            "r": 131,
+                                                                                                            "g": 131,
+                                                                                                            "b": 131
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

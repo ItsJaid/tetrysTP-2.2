@@ -1,0 +1,65 @@
+{
+    "children": {
+        "index": [
+            {
+                "type": "CCLayer",
+                "children": {
+                    "index": [
+                        {
+                            "type": "CCNode",
+                            "children": {
+                                "node": {
+                                    "right-column": {
+                                        "children": {
+                                            "node": {
+                                                "tabs-menu": {
+                                                    "children": {
+                                                        "all": {
+                                                            "children": {
+                                                                "index": [
+                                                                    {
+                                                                        "type": "GeodeTabSprite",
+                                                                        "children": {
+                                                                            "index": [
+                                                                                {
+                                                                                    "type": "NineSlice",
+                                                                                    "index": 0,
+                                                                                    "attributes": {
+                                                                                        "color": {
+                                                                                            "r": 41,
+                                                                                            "g": 41,
+                                                                                            "b": 41
+                                                                                        }
+                                                                                    }
+                                                                                },
+                                                                                {
+                                                                                    "type": "NineSlice",
+                                                                                    "index": 1,
+                                                                                    "attributes": {
+                                                                                        "color": {
+                                                                                            "r": 186,
+                                                                                            "g": 186,
+                                                                                            "b": 186
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

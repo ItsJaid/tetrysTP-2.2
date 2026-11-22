@@ -1,7 +1,18 @@
 {
-	"textureldr": "1.6.1",
-	"name": "tetrysTP",
-	"id": "itsjaid.tetrystp",
-	"version": "1.21.0",
-	"author": "tetrys & Jaid"
+    "textureldr": "1.11.0",
+    "name": "tetrysTP",
+    "id": "itsjaid.tetrystp",
+    "version": "1.22.0",
+    "gd": 2.2091,
+    "author": "tetrys & Jaid",
+    "tags": [
+        "Icons",
+        "Menus",
+        "Mods",
+        "Audio"
+    ],
+    "dependencies": [
+        "hiimjustin000.more_icons",
+        "uproxide.happy_textures"
+    ]
 }

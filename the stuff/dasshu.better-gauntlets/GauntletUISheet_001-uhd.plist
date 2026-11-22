@@ -7,7 +7,7 @@
 		<key>dasshu.better-gauntlets/GR_gauntletCornerColor_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-13,-12}</string>
+			<string>{-13,-12.5}</string>
 			<key>spriteSize</key>
 			<string>{258,257}</string>
 			<key>spriteSourceSize</key>
@@ -20,7 +20,7 @@
 		<key>dasshu.better-gauntlets/GR_gauntletCornerHighlight_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-13,-12}</string>
+			<string>{-13,-12.5}</string>
 			<key>spriteSize</key>
 			<string>{258,257}</string>
 			<key>spriteSourceSize</key>
@@ -33,7 +33,7 @@
 		<key>dasshu.better-gauntlets/GR_gauntletCorner_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
 			<string>{286,282}</string>
 			<key>spriteSourceSize</key>
@@ -43,42 +43,107 @@
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>dasshu.better-gauntlets/gauntletGround_001.png</key>
+		<key>dasshu.better-gauntlets/GR_gauntletTitle_01_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
-			<string>{2136,106}</string>
+			<string>{1454,439}</string>
 			<key>spriteSourceSize</key>
-			<string>{2136,106}</string>
+			<string>{1454,439}</string>
 			<key>textureRect</key>
-			<string>{{0,284},{2136,106}}</string>
+			<string>{{0,656},{1454,439}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
-		<key>dasshu.better-gauntlets/gauntletTitle.png</key>
+		<key>dasshu.better-gauntlets/GR_gauntletTitle_02_001.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{0,0}</string>
+			<string>{0,-0}</string>
 			<key>spriteSize</key>
-			<string>{841,237}</string>
+			<string>{1454,440}</string>
 			<key>spriteSourceSize</key>
-			<string>{841,237}</string>
+			<string>{1454,440}</string>
 			<key>textureRect</key>
-			<string>{{0,392},{841,237}}</string>
+			<string>{{0,1097},{1454,440}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>dasshu.better-gauntlets/GR_plaqueAccent_001.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{635,634}</string>
+			<key>spriteSourceSize</key>
+			<string>{635,634}</string>
+			<key>textureRect</key>
+			<string>{{808,0},{635,634}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>dasshu.better-gauntlets/GR_plaqueBase_001.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{10,-10}</string>
+			<key>spriteSize</key>
+			<string>{655,654}</string>
+			<key>spriteSourceSize</key>
+			<string>{675,674}</string>
+			<key>textureRect</key>
+			<string>{{1445,0},{655,654}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>dasshu.better-gauntlets/GR_rewardCorner_001.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{191,189}</string>
+			<key>spriteSourceSize</key>
+			<string>{191,189}</string>
+			<key>textureRect</key>
+			<string>{{0,259},{191,189}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>dasshu.better-gauntlets/GR_squareB_01.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{6,-6}</string>
+			<key>spriteSize</key>
+			<string>{332,331}</string>
+			<key>spriteSourceSize</key>
+			<string>{344,343}</string>
+			<key>textureRect</key>
+			<string>{{1456,656},{332,331}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>dasshu.better-gauntlets/gauntletGround_001.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,-0}</string>
+			<key>spriteSize</key>
+			<string>{2136,106}</string>
+			<key>spriteSourceSize</key>
+			<string>{2136,106}</string>
+			<key>textureRect</key>
+			<string>{{0,1539},{2136,106}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
 		<key>dasshu.better-gauntlets/vaultText.png</key>
 		<dict>
 			<key>spriteOffset</key>
-			<string>{-1,-5}</string>
+			<string>{-0.5,-4.5}</string>
 			<key>spriteSize</key>
 			<string>{699,202}</string>
 			<key>spriteSourceSize</key>
 			<string>{748,219}</string>
 			<key>textureRect</key>
-			<string>{{808,0},{699,202}}</string>
+			<string>{{0,450},{699,202}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -90,7 +155,7 @@
 		<key>realTextureFileName</key>
 		<string>dasshu.better-gauntlets/GauntletUISheet_001-uhd.png</string>
 		<key>size</key>
-		<string>{2136,629}</string>
+		<string>{2136,1645}</string>
 		<key>textureFileName</key>
 		<string>dasshu.better-gauntlets/GauntletUISheet_001-uhd.png</string>
 	</dict>
